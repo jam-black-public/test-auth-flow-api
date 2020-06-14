@@ -1,8 +1,0 @@
-SERVICE_NAME=betslip-be
-SERVICE_NAME_DEV=betslip-be-dev
-DOCKER_REGISTRY_PATH=ultraverse
-DOCKER_FILE=./docker/Dockerfile
-DOCKER_USER=bamboouser
-DOCKER_REGISTRY_PROD=docker-snapshots.btigroup.io
-DOCKER_REGISTRY_BETA=docker-snapshots.btigroup.io
-DOCKER_REGISTRY_DEV=docker-snapshots.btigroup.io
