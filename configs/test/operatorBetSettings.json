@@ -1,8 +1,0 @@
-{
-  "allowAboveMax": true,
-  "percentAboveMax": 20,
-  "allowBelowMin": false,
-  "percentBelowMin": 10,
-  "bannedCountries": ["RU"],
-  "maxSelectionsCount": 20
-}
