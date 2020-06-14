@@ -1,0 +1,2773 @@
+{
+  "_DATE_CLEANUP": "2019-08-28T12:28:58.199Z",
+  "_id": "64619319",
+  "BetslipLine": "VDR Raceday 114036 (11:09:25)",
+  "BetslipLinePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "10",
+      "{0}": "VDR Raceday 114036 (11:09:25)"
+    }
+  },
+  "EventName": "VDR Raceday 114036 (11:09:25)",
+  "EventNamePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "10",
+      "{0}": "VDR Raceday 114036 (11:09:25)"
+    }
+  },
+  "FeedId": "1",
+  "IsGoingLive": false,
+  "IsLive": false,
+  "IsRemoved": false,
+  "IsSuspended": false,
+  "IsTeamSwap": false,
+  "IsTopLeague": false,
+  "LastUpdateDateTime": "2019-08-28T10:25:31.242Z",
+  "LeagueGroupId": "312",
+  "LeagueId": "98366",
+  "LeagueName": "Virtual Greyhounds",
+  "LeagueOrder": 2087,
+  "MarketGroups": [],
+  "MarketLinesCount": 3,
+  "Markets": [
+    "64619319",
+    "5_64619319",
+    "4_64619319"
+  ],
+  "MasterLeagueId": "13241",
+  "MasterLiveLeagueId": "0",
+  "Media": [],
+  "Metadata": {
+    "masterLeagueId": "13241"
+  },
+  "Participants": [],
+  "RegionCode": "ZZ",
+  "RegionId": "245",
+  "RegionName": "International",
+  "SportId": "73",
+  "SportName": "Virtual Sports 3Way",
+  "SportOrder": 73,
+  "StartEventDate": "2019-08-28T11:09:25.000Z",
+  "Status": 0,
+  "Tags": [],
+  "TotalBets": 0,
+  "TotalDeposit": 0,
+  "TotalMarketsCount": 3,
+  "Type": "Outright"
+},
+{
+  "_DATE_CLEANUP": "2019-08-28T12:28:46.976Z",
+  "_id": "64619309",
+  "BetslipLine": "VDR Raceday 114036 (11:07:07)",
+  "BetslipLinePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "10",
+      "{0}": "VDR Raceday 114036 (11:07:07)"
+    }
+  },
+  "EventName": "VDR Raceday 114036 (11:07:07)",
+  "EventNamePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "10",
+      "{0}": "VDR Raceday 114036 (11:07:07)"
+    }
+  },
+  "FeedId": "1",
+  "IsGoingLive": false,
+  "IsLive": false,
+  "IsRemoved": false,
+  "IsSuspended": false,
+  "IsTeamSwap": false,
+  "IsTopLeague": false,
+  "LastUpdateDateTime": "2019-08-28T10:24:25.582Z",
+  "LeagueGroupId": "312",
+  "LeagueId": "98366",
+  "LeagueName": "Virtual Greyhounds",
+  "LeagueOrder": 2086,
+  "MarketGroups": [],
+  "MarketLinesCount": 3,
+  "Markets": [
+    "4_64619309",
+    "64619309",
+    "5_64619309"
+  ],
+  "MasterLeagueId": "13241",
+  "MasterLiveLeagueId": "0",
+  "Media": [],
+  "Metadata": {
+    "masterLeagueId": "13241"
+  },
+  "Participants": [
+    {
+      "_id": "454009",
+      "Name": "Archie Spike",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-3",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "3"
+      }
+    },
+    {
+      "_id": "454008",
+      "Name": "Coco Candy",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-2",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "2"
+      }
+    },
+    {
+      "_id": "454007",
+      "Name": "Rookie Lee",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-6",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "6"
+      }
+    },
+    {
+      "_id": "454012",
+      "Name": "Comet Khan",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-5",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "5"
+      }
+    },
+    {
+      "_id": "454011",
+      "Name": "Angel Lily",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-1",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "1"
+      }
+    },
+    {
+      "_id": "454010",
+      "Name": "Canelo Blaze",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-4",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "4"
+      }
+    }
+  ],
+  "RegionCode": "ZZ",
+  "RegionId": "245",
+  "RegionName": "International",
+  "SportId": "73",
+  "SportName": "Virtual Sports 3Way",
+  "SportOrder": 73,
+  "StartEventDate": "2019-08-28T11:07:07.000Z",
+  "Status": 0,
+  "Tags": [],
+  "TotalBets": 0,
+  "TotalDeposit": 0,
+  "TotalMarketsCount": 3,
+  "Type": "Outright"
+},
+{
+  "_DATE_CLEANUP": "2019-08-28T12:28:46.976Z",
+  "_id": "64619308",
+  "BetslipLine": "VDR Raceday 114036 (11:05:15)",
+  "BetslipLinePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "10",
+      "{0}": "VDR Raceday 114036 (11:05:15)"
+    }
+  },
+  "EventName": "VDR Raceday 114036 (11:05:15)",
+  "EventNamePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "10",
+      "{0}": "VDR Raceday 114036 (11:05:15)"
+    }
+  },
+  "FeedId": "1",
+  "IsGoingLive": false,
+  "IsLive": false,
+  "IsRemoved": false,
+  "IsSuspended": false,
+  "IsTeamSwap": false,
+  "IsTopLeague": false,
+  "LastUpdateDateTime": "2019-08-28T10:24:25.582Z",
+  "LeagueGroupId": "312",
+  "LeagueId": "98366",
+  "LeagueName": "Virtual Greyhounds",
+  "LeagueOrder": 2086,
+  "MarketGroups": [],
+  "MarketLinesCount": 3,
+  "Markets": [
+    "64619308",
+    "5_64619308",
+    "4_64619308"
+  ],
+  "MasterLeagueId": "13241",
+  "MasterLiveLeagueId": "0",
+  "Media": [],
+  "Metadata": {
+    "masterLeagueId": "13241"
+  },
+  "Participants": [
+    {
+      "_id": "454012",
+      "Name": "Comet Khan",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-1",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "1"
+      }
+    },
+    {
+      "_id": "454016",
+      "Name": "Nebo Whizzer",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-2",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "2"
+      }
+    },
+    {
+      "_id": "454015",
+      "Name": "Fabulous Hans",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-3",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "3"
+      }
+    },
+    {
+      "_id": "454009",
+      "Name": "Archie Spike",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-5",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "5"
+      }
+    },
+    {
+      "_id": "454014",
+      "Name": "Rapid Army",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-4",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "4"
+      }
+    },
+    {
+      "_id": "454013",
+      "Name": "Prince Blanket",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-6",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "6"
+      }
+    }
+  ],
+  "RegionCode": "ZZ",
+  "RegionId": "245",
+  "RegionName": "International",
+  "SportId": "73",
+  "SportName": "Virtual Sports 3Way",
+  "SportOrder": 73,
+  "StartEventDate": "2019-08-28T11:05:15.000Z",
+  "Status": 0,
+  "Tags": [],
+  "TotalBets": 0,
+  "TotalDeposit": 0,
+  "TotalMarketsCount": 3,
+  "Type": "Outright"
+},
+{
+  "_DATE_CLEANUP": "2019-08-28T12:28:46.976Z",
+  "_id": "64619307",
+  "BetslipLine": "VDR Raceday 114036 (11:03:10)",
+  "BetslipLinePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "10",
+      "{0}": "VDR Raceday 114036 (11:03:10)"
+    }
+  },
+  "EventName": "VDR Raceday 114036 (11:03:10)",
+  "EventNamePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "10",
+      "{0}": "VDR Raceday 114036 (11:03:10)"
+    }
+  },
+  "FeedId": "1",
+  "IsGoingLive": false,
+  "IsLive": false,
+  "IsRemoved": false,
+  "IsSuspended": false,
+  "IsTeamSwap": false,
+  "IsTopLeague": false,
+  "LastUpdateDateTime": "2019-08-28T10:24:25.582Z",
+  "LeagueGroupId": "312",
+  "LeagueId": "98366",
+  "LeagueName": "Virtual Greyhounds",
+  "LeagueOrder": 2086,
+  "MarketGroups": [],
+  "MarketLinesCount": 3,
+  "Markets": [
+    "5_64619307",
+    "64619307",
+    "4_64619307"
+  ],
+  "MasterLeagueId": "13241",
+  "MasterLiveLeagueId": "0",
+  "Media": [],
+  "Metadata": {
+    "masterLeagueId": "13241"
+  },
+  "Participants": [
+    {
+      "_id": "454029",
+      "Name": "Brown Duke",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-4",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "4"
+      }
+    },
+    {
+      "_id": "454019",
+      "Name": "Maverick Joe",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-6",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "6"
+      }
+    },
+    {
+      "_id": "454028",
+      "Name": "Captain Brindle",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-3",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "3"
+      }
+    },
+    {
+      "_id": "454027",
+      "Name": "Master George",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-5",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "5"
+      }
+    },
+    {
+      "_id": "454026",
+      "Name": "Kabang Joe",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-2",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "2"
+      }
+    },
+    {
+      "_id": "454025",
+      "Name": "Black Nose",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-1",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "1"
+      }
+    }
+  ],
+  "RegionCode": "ZZ",
+  "RegionId": "245",
+  "RegionName": "International",
+  "SportId": "73",
+  "SportName": "Virtual Sports 3Way",
+  "SportOrder": 73,
+  "StartEventDate": "2019-08-28T11:03:10.000Z",
+  "Status": 0,
+  "Tags": [],
+  "TotalBets": 0,
+  "TotalDeposit": 0,
+  "TotalMarketsCount": 3,
+  "Type": "Outright"
+},
+{
+  "_DATE_CLEANUP": "2019-08-28T12:28:46.983Z",
+  "_id": "64619306",
+  "BetslipLine": "VDR Raceday 114036 (11:01:18)",
+  "BetslipLinePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "10",
+      "{0}": "VDR Raceday 114036 (11:01:18)"
+    }
+  },
+  "EventName": "VDR Raceday 114036 (11:01:18)",
+  "EventNamePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "10",
+      "{0}": "VDR Raceday 114036 (11:01:18)"
+    }
+  },
+  "FeedId": "1",
+  "IsGoingLive": false,
+  "IsLive": false,
+  "IsRemoved": false,
+  "IsSuspended": false,
+  "IsTeamSwap": false,
+  "IsTopLeague": false,
+  "LastUpdateDateTime": "2019-08-28T10:24:25.582Z",
+  "LeagueGroupId": "312",
+  "LeagueId": "98366",
+  "LeagueName": "Virtual Greyhounds",
+  "LeagueOrder": 2086,
+  "MarketGroups": [],
+  "MarketLinesCount": 3,
+  "Markets": [
+    "5_64619306",
+    "4_64619306",
+    "64619306"
+  ],
+  "MasterLeagueId": "13241",
+  "MasterLiveLeagueId": "0",
+  "Media": [],
+  "Metadata": {
+    "masterLeagueId": "13241"
+  },
+  "Participants": [
+    {
+      "_id": "454024",
+      "Name": "Mr Bullet",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-6",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "6"
+      }
+    },
+    {
+      "_id": "454023",
+      "Name": "Climb to top",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-2",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "2"
+      }
+    },
+    {
+      "_id": "454015",
+      "Name": "Fabulous Hans",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-5",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "5"
+      }
+    },
+    {
+      "_id": "454022",
+      "Name": "Chief Mayhem",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-1",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "1"
+      }
+    },
+    {
+      "_id": "454021",
+      "Name": "Peritas Marlowe",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-4",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "4"
+      }
+    },
+    {
+      "_id": "454013",
+      "Name": "Prince Blanket",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-3",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "3"
+      }
+    }
+  ],
+  "RegionCode": "ZZ",
+  "RegionId": "245",
+  "RegionName": "International",
+  "SportId": "73",
+  "SportName": "Virtual Sports 3Way",
+  "SportOrder": 73,
+  "StartEventDate": "2019-08-28T11:01:18.000Z",
+  "Status": 0,
+  "Tags": [],
+  "TotalBets": 0,
+  "TotalDeposit": 0,
+  "TotalMarketsCount": 3,
+  "Type": "Outright"
+},
+{
+  "_DATE_CLEANUP": "2019-08-28T12:28:46.983Z",
+  "_id": "64619305",
+  "BetslipLine": "VDR Raceday 114036 (10:59:00)",
+  "BetslipLinePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "10",
+      "{0}": "VDR Raceday 114036 (10:59:00)"
+    }
+  },
+  "EventName": "VDR Raceday 114036 (10:59:00)",
+  "EventNamePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "10",
+      "{0}": "VDR Raceday 114036 (10:59:00)"
+    }
+  },
+  "FeedId": "1",
+  "IsGoingLive": false,
+  "IsLive": false,
+  "IsRemoved": false,
+  "IsSuspended": false,
+  "IsTeamSwap": false,
+  "IsTopLeague": false,
+  "LastUpdateDateTime": "2019-08-28T10:24:25.582Z",
+  "LeagueGroupId": "312",
+  "LeagueId": "98366",
+  "LeagueName": "Virtual Greyhounds",
+  "LeagueOrder": 2086,
+  "MarketGroups": [],
+  "MarketLinesCount": 3,
+  "Markets": [
+    "4_64619305",
+    "5_64619305",
+    "64619305"
+  ],
+  "MasterLeagueId": "13241",
+  "MasterLiveLeagueId": "0",
+  "Media": [],
+  "Metadata": {
+    "masterLeagueId": "13241"
+  },
+  "Participants": [
+    {
+      "_id": "454012",
+      "Name": "Comet Khan",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-1",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "1"
+      }
+    },
+    {
+      "_id": "454011",
+      "Name": "Angel Lily",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-4",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "4"
+      }
+    },
+    {
+      "_id": "454030",
+      "Name": "Lady Kashtanka",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-6",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "6"
+      }
+    },
+    {
+      "_id": "454010",
+      "Name": "Canelo Blaze",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-5",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "5"
+      }
+    },
+    {
+      "_id": "454008",
+      "Name": "Coco Candy",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-3",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "3"
+      }
+    },
+    {
+      "_id": "454007",
+      "Name": "Rookie Lee",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-2",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "2"
+      }
+    }
+  ],
+  "RegionCode": "ZZ",
+  "RegionId": "245",
+  "RegionName": "International",
+  "SportId": "73",
+  "SportName": "Virtual Sports 3Way",
+  "SportOrder": 73,
+  "StartEventDate": "2019-08-28T10:59:00.000Z",
+  "Status": 0,
+  "Tags": [],
+  "TotalBets": 0,
+  "TotalDeposit": 0,
+  "TotalMarketsCount": 3,
+  "Type": "Outright"
+},
+{
+  "_DATE_CLEANUP": "2019-08-28T12:28:46.976Z",
+  "_id": "64619304",
+  "BetslipLine": "VDR Raceday 114036 (10:57:08)",
+  "BetslipLinePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "10",
+      "{0}": "VDR Raceday 114036 (10:57:08)"
+    }
+  },
+  "EventName": "VDR Raceday 114036 (10:57:08)",
+  "EventNamePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "10",
+      "{0}": "VDR Raceday 114036 (10:57:08)"
+    }
+  },
+  "FeedId": "1",
+  "IsGoingLive": false,
+  "IsLive": false,
+  "IsRemoved": false,
+  "IsSuspended": false,
+  "IsTeamSwap": false,
+  "IsTopLeague": false,
+  "LastUpdateDateTime": "2019-08-28T10:24:25.582Z",
+  "LeagueGroupId": "312",
+  "LeagueId": "98366",
+  "LeagueName": "Virtual Greyhounds",
+  "LeagueOrder": 2086,
+  "MarketGroups": [],
+  "MarketLinesCount": 3,
+  "Markets": [
+    "5_64619304",
+    "4_64619304",
+    "64619304"
+  ],
+  "MasterLeagueId": "13241",
+  "MasterLiveLeagueId": "0",
+  "Media": [],
+  "Metadata": {
+    "masterLeagueId": "13241"
+  },
+  "Participants": [
+    {
+      "_id": "454026",
+      "Name": "Kabang Joe",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-1",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "1"
+      }
+    },
+    {
+      "_id": "454025",
+      "Name": "Black Nose",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-5",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "5"
+      }
+    },
+    {
+      "_id": "454029",
+      "Name": "Brown Duke",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-2",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "2"
+      }
+    },
+    {
+      "_id": "454011",
+      "Name": "Angel Lily",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-4",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "4"
+      }
+    },
+    {
+      "_id": "454028",
+      "Name": "Captain Brindle",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-6",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "6"
+      }
+    },
+    {
+      "_id": "454027",
+      "Name": "Master George",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-3",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "3"
+      }
+    }
+  ],
+  "RegionCode": "ZZ",
+  "RegionId": "245",
+  "RegionName": "International",
+  "SportId": "73",
+  "SportName": "Virtual Sports 3Way",
+  "SportOrder": 73,
+  "StartEventDate": "2019-08-28T10:57:08.000Z",
+  "Status": 0,
+  "Tags": [],
+  "TotalBets": 0,
+  "TotalDeposit": 0,
+  "TotalMarketsCount": 3,
+  "Type": "Outright"
+},
+{
+  "_DATE_CLEANUP": "2019-08-28T12:28:46.983Z",
+  "_id": "64619303",
+  "BetslipLine": "VDR Raceday 114036 (10:55:03)",
+  "BetslipLinePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "10",
+      "{0}": "VDR Raceday 114036 (10:55:03)"
+    }
+  },
+  "EventName": "VDR Raceday 114036 (10:55:03)",
+  "EventNamePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "10",
+      "{0}": "VDR Raceday 114036 (10:55:03)"
+    }
+  },
+  "FeedId": "1",
+  "IsGoingLive": false,
+  "IsLive": false,
+  "IsRemoved": false,
+  "IsSuspended": false,
+  "IsTeamSwap": false,
+  "IsTopLeague": false,
+  "LastUpdateDateTime": "2019-08-28T10:24:25.582Z",
+  "LeagueGroupId": "312",
+  "LeagueId": "98366",
+  "LeagueName": "Virtual Greyhounds",
+  "LeagueOrder": 2086,
+  "MarketGroups": [],
+  "MarketLinesCount": 3,
+  "Markets": [
+    "5_64619303",
+    "4_64619303",
+    "64619303"
+  ],
+  "MasterLeagueId": "13241",
+  "MasterLiveLeagueId": "0",
+  "Media": [],
+  "Metadata": {
+    "masterLeagueId": "13241"
+  },
+  "Participants": [
+    {
+      "_id": "454020",
+      "Name": "Sam Conejo",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-4",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "4"
+      }
+    },
+    {
+      "_id": "454019",
+      "Name": "Maverick Joe",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-5",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "5"
+      }
+    },
+    {
+      "_id": "454010",
+      "Name": "Canelo Blaze",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-1",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "1"
+      }
+    },
+    {
+      "_id": "454018",
+      "Name": "Precious Juno",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-2",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "2"
+      }
+    },
+    {
+      "_id": "454017",
+      "Name": "Lucky Zimbo",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-6",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "6"
+      }
+    },
+    {
+      "_id": "454007",
+      "Name": "Rookie Lee",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-3",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "3"
+      }
+    }
+  ],
+  "RegionCode": "ZZ",
+  "RegionId": "245",
+  "RegionName": "International",
+  "SportId": "73",
+  "SportName": "Virtual Sports 3Way",
+  "SportOrder": 73,
+  "StartEventDate": "2019-08-28T10:55:03.000Z",
+  "Status": 0,
+  "Tags": [],
+  "TotalBets": 0,
+  "TotalDeposit": 0,
+  "TotalMarketsCount": 3,
+  "Type": "Outright"
+},
+{
+  "_DATE_CLEANUP": "2019-08-28T12:28:46.983Z",
+  "_id": "64619302",
+  "BetslipLine": "VDR Raceday 114036 (10:52:45)",
+  "BetslipLinePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "10",
+      "{0}": "VDR Raceday 114036 (10:52:45)"
+    }
+  },
+  "EventName": "VDR Raceday 114036 (10:52:45)",
+  "EventNamePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "10",
+      "{0}": "VDR Raceday 114036 (10:52:45)"
+    }
+  },
+  "FeedId": "1",
+  "IsGoingLive": false,
+  "IsLive": false,
+  "IsRemoved": false,
+  "IsSuspended": false,
+  "IsTeamSwap": false,
+  "IsTopLeague": false,
+  "LastUpdateDateTime": "2019-08-28T10:24:25.582Z",
+  "LeagueGroupId": "312",
+  "LeagueId": "98366",
+  "LeagueName": "Virtual Greyhounds",
+  "LeagueOrder": 2086,
+  "MarketGroups": [],
+  "MarketLinesCount": 3,
+  "Markets": [
+    "4_64619302",
+    "5_64619302",
+    "64619302"
+  ],
+  "MasterLeagueId": "13241",
+  "MasterLiveLeagueId": "0",
+  "Media": [],
+  "Metadata": {
+    "masterLeagueId": "13241"
+  },
+  "Participants": [
+    {
+      "_id": "454029",
+      "Name": "Brown Duke",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-3",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "3"
+      }
+    },
+    {
+      "_id": "454030",
+      "Name": "Lady Kashtanka",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-5",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "5"
+      }
+    },
+    {
+      "_id": "454018",
+      "Name": "Precious Juno",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-4",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "4"
+      }
+    },
+    {
+      "_id": "454023",
+      "Name": "Climb to top",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-6",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "6"
+      }
+    },
+    {
+      "_id": "454026",
+      "Name": "Kabang Joe",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-1",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "1"
+      }
+    },
+    {
+      "_id": "454025",
+      "Name": "Black Nose",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-2",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "2"
+      }
+    }
+  ],
+  "RegionCode": "ZZ",
+  "RegionId": "245",
+  "RegionName": "International",
+  "SportId": "73",
+  "SportName": "Virtual Sports 3Way",
+  "SportOrder": 73,
+  "StartEventDate": "2019-08-28T10:52:45.000Z",
+  "Status": 0,
+  "Tags": [],
+  "TotalBets": 0,
+  "TotalDeposit": 0,
+  "TotalMarketsCount": 3,
+  "Type": "Outright"
+},
+{
+  "_DATE_CLEANUP": "2019-08-28T12:28:46.983Z",
+  "_id": "64619301",
+  "BetslipLine": "VDR Raceday 114036 (10:50:40)",
+  "BetslipLinePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "10",
+      "{0}": "VDR Raceday 114036 (10:50:40)"
+    }
+  },
+  "EventName": "VDR Raceday 114036 (10:50:40)",
+  "EventNamePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "10",
+      "{0}": "VDR Raceday 114036 (10:50:40)"
+    }
+  },
+  "FeedId": "1",
+  "IsGoingLive": false,
+  "IsLive": false,
+  "IsRemoved": false,
+  "IsSuspended": false,
+  "IsTeamSwap": false,
+  "IsTopLeague": false,
+  "LastUpdateDateTime": "2019-08-28T10:24:25.582Z",
+  "LeagueGroupId": "312",
+  "LeagueId": "98366",
+  "LeagueName": "Virtual Greyhounds",
+  "LeagueOrder": 2086,
+  "MarketGroups": [],
+  "MarketLinesCount": 3,
+  "Markets": [
+    "5_64619301",
+    "4_64619301",
+    "64619301"
+  ],
+  "MasterLeagueId": "13241",
+  "MasterLiveLeagueId": "0",
+  "Media": [],
+  "Metadata": {
+    "masterLeagueId": "13241"
+  },
+  "Participants": [
+    {
+      "_id": "454028",
+      "Name": "Captain Brindle",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-1",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "1"
+      }
+    },
+    {
+      "_id": "454019",
+      "Name": "Maverick Joe",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-4",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "4"
+      }
+    },
+    {
+      "_id": "454027",
+      "Name": "Master George",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-6",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "6"
+      }
+    },
+    {
+      "_id": "454026",
+      "Name": "Kabang Joe",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-3",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "3"
+      }
+    },
+    {
+      "_id": "454025",
+      "Name": "Black Nose",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-5",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "5"
+      }
+    },
+    {
+      "_id": "454029",
+      "Name": "Brown Duke",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-2",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "2"
+      }
+    }
+  ],
+  "RegionCode": "ZZ",
+  "RegionId": "245",
+  "RegionName": "International",
+  "SportId": "73",
+  "SportName": "Virtual Sports 3Way",
+  "SportOrder": 73,
+  "StartEventDate": "2019-08-28T10:50:40.000Z",
+  "Status": 0,
+  "Tags": [],
+  "TotalBets": 0,
+  "TotalDeposit": 0,
+  "TotalMarketsCount": 3,
+  "Type": "Outright"
+},
+{
+  "_DATE_CLEANUP": "2019-08-28T12:28:46.983Z",
+  "_id": "64619300",
+  "BetslipLine": "VDR Raceday 114036 (10:48:22)",
+  "BetslipLinePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "10",
+      "{0}": "VDR Raceday 114036 (10:48:22)"
+    }
+  },
+  "EventName": "VDR Raceday 114036 (10:48:22)",
+  "EventNamePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "10",
+      "{0}": "VDR Raceday 114036 (10:48:22)"
+    }
+  },
+  "FeedId": "1",
+  "IsGoingLive": false,
+  "IsLive": false,
+  "IsRemoved": false,
+  "IsSuspended": false,
+  "IsTeamSwap": false,
+  "IsTopLeague": false,
+  "LastUpdateDateTime": "2019-08-28T10:24:25.582Z",
+  "LeagueGroupId": "312",
+  "LeagueId": "98366",
+  "LeagueName": "Virtual Greyhounds",
+  "LeagueOrder": 2086,
+  "MarketGroups": [],
+  "MarketLinesCount": 3,
+  "Markets": [
+    "4_64619300",
+    "5_64619300",
+    "64619300"
+  ],
+  "MasterLeagueId": "13241",
+  "MasterLiveLeagueId": "0",
+  "Media": [],
+  "Metadata": {
+    "masterLeagueId": "13241"
+  },
+  "Participants": [
+    {
+      "_id": "454012",
+      "Name": "Comet Khan",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-6",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "6"
+      }
+    },
+    {
+      "_id": "454011",
+      "Name": "Angel Lily",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-5",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "5"
+      }
+    },
+    {
+      "_id": "454030",
+      "Name": "Lady Kashtanka",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-3",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "3"
+      }
+    },
+    {
+      "_id": "454010",
+      "Name": "Canelo Blaze",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-1",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "1"
+      }
+    },
+    {
+      "_id": "454008",
+      "Name": "Coco Candy",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-2",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "2"
+      }
+    },
+    {
+      "_id": "454007",
+      "Name": "Rookie Lee",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-4",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "4"
+      }
+    }
+  ],
+  "RegionCode": "ZZ",
+  "RegionId": "245",
+  "RegionName": "International",
+  "SportId": "73",
+  "SportName": "Virtual Sports 3Way",
+  "SportOrder": 73,
+  "StartEventDate": "2019-08-28T10:48:22.000Z",
+  "Status": 0,
+  "Tags": [],
+  "TotalBets": 0,
+  "TotalDeposit": 0,
+  "TotalMarketsCount": 3,
+  "Type": "Outright"
+},
+{
+  "_DATE_CLEANUP": "2019-08-28T12:28:46.976Z",
+  "_id": "64619299",
+  "BetslipLine": "VDR Raceday 114036 (10:46:30)",
+  "BetslipLinePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "10",
+      "{0}": "VDR Raceday 114036 (10:46:30)"
+    }
+  },
+  "EventName": "VDR Raceday 114036 (10:46:30)",
+  "EventNamePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "10",
+      "{0}": "VDR Raceday 114036 (10:46:30)"
+    }
+  },
+  "FeedId": "1",
+  "IsGoingLive": false,
+  "IsLive": false,
+  "IsRemoved": false,
+  "IsSuspended": false,
+  "IsTeamSwap": false,
+  "IsTopLeague": false,
+  "LastUpdateDateTime": "2019-08-28T10:24:25.582Z",
+  "LeagueGroupId": "312",
+  "LeagueId": "98366",
+  "LeagueName": "Virtual Greyhounds",
+  "LeagueOrder": 2086,
+  "MarketGroups": [],
+  "MarketLinesCount": 3,
+  "Markets": [
+    "64619299",
+    "5_64619299",
+    "4_64619299"
+  ],
+  "MasterLeagueId": "13241",
+  "MasterLiveLeagueId": "0",
+  "Media": [],
+  "Metadata": {
+    "masterLeagueId": "13241"
+  },
+  "Participants": [
+    {
+      "_id": "454013",
+      "Name": "Prince Blanket",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-4",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "4"
+      }
+    },
+    {
+      "_id": "454024",
+      "Name": "Mr Bullet",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-6",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "6"
+      }
+    },
+    {
+      "_id": "454023",
+      "Name": "Climb to top",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-1",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "1"
+      }
+    },
+    {
+      "_id": "454015",
+      "Name": "Fabulous Hans",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-2",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "2"
+      }
+    },
+    {
+      "_id": "454022",
+      "Name": "Chief Mayhem",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-5",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "5"
+      }
+    },
+    {
+      "_id": "454021",
+      "Name": "Peritas Marlowe",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vt-3",
+        "runnerStatus": "DOE",
+        "shortRaceForm": "",
+        "trapNumber": "3"
+      }
+    }
+  ],
+  "RegionCode": "ZZ",
+  "RegionId": "245",
+  "RegionName": "International",
+  "SportId": "73",
+  "SportName": "Virtual Sports 3Way",
+  "SportOrder": 73,
+  "StartEventDate": "2019-08-28T10:46:30.000Z",
+  "Status": 0,
+  "Tags": [],
+  "TotalBets": 0,
+  "TotalDeposit": 0,
+  "TotalMarketsCount": 3,
+  "Type": "Outright"
+},
+{
+  "_DATE_CLEANUP": "2019-08-28T12:28:46.976Z",
+  "_id": "64619298",
+  "BetslipLine": "Raceday 182447 (11:03:21)",
+  "BetslipLinePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "10",
+      "{0}": "Raceday 182447 (11:03:21)"
+    }
+  },
+  "EventName": "Raceday 182447 (11:03:21)",
+  "EventNamePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "10",
+      "{0}": "Raceday 182447 (11:03:21)"
+    }
+  },
+  "FeedId": "1",
+  "IsGoingLive": false,
+  "IsLive": false,
+  "IsRemoved": false,
+  "IsSuspended": false,
+  "IsTeamSwap": false,
+  "IsTopLeague": false,
+  "LastUpdateDateTime": "2019-08-28T10:24:25.582Z",
+  "LeagueGroupId": "312",
+  "LeagueId": "98365",
+  "LeagueName": "Virtual Horse Racing",
+  "LeagueOrder": 2057,
+  "MarketGroups": [],
+  "MarketLinesCount": 3,
+  "Markets": [
+    "5_64619298",
+    "64619298",
+    "4_64619298"
+  ],
+  "MasterLeagueId": "13240",
+  "MasterLiveLeagueId": "0",
+  "Media": [],
+  "Metadata": {
+    "masterLeagueId": "13240"
+  },
+  "Participants": [
+    {
+      "_id": "453966",
+      "Name": "Big Spender",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vhr-4",
+        "runnerNumber": "4",
+        "runnerStatus": "DOE",
+        "shortRaceForm": ""
+      }
+    },
+    {
+      "_id": "453975",
+      "Name": "Legend",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vhr-8",
+        "runnerNumber": "8",
+        "runnerStatus": "DOE",
+        "shortRaceForm": ""
+      }
+    },
+    {
+      "_id": "453968",
+      "Name": "Knight Moves",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vhr-10",
+        "runnerNumber": "10",
+        "runnerStatus": "DOE",
+        "shortRaceForm": ""
+      }
+    },
+    {
+      "_id": "453969",
+      "Name": "Nightmare",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vhr-3",
+        "runnerNumber": "3",
+        "runnerStatus": "DOE",
+        "shortRaceForm": ""
+      }
+    },
+    {
+      "_id": "453972",
+      "Name": "With Love",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vhr-6",
+        "runnerNumber": "6",
+        "runnerStatus": "DOE",
+        "shortRaceForm": ""
+      }
+    },
+    {
+      "_id": "453967",
+      "Name": "Horsenstein",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vhr-1",
+        "runnerNumber": "1",
+        "runnerStatus": "DOE",
+        "shortRaceForm": ""
+      }
+    },
+    {
+      "_id": "453965",
+      "Name": "Bon Chance",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vhr-7",
+        "runnerNumber": "7",
+        "runnerStatus": "DOE",
+        "shortRaceForm": ""
+      }
+    },
+    {
+      "_id": "453962",
+      "Name": "Walking Tall",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vhr-9",
+        "runnerNumber": "9",
+        "runnerStatus": "DOE",
+        "shortRaceForm": ""
+      }
+    },
+    {
+      "_id": "453964",
+      "Name": "Dauphin",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vhr-12",
+        "runnerNumber": "12",
+        "runnerStatus": "DOE",
+        "shortRaceForm": ""
+      }
+    },
+    {
+      "_id": "453960",
+      "Name": "Montoya",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vhr-5",
+        "runnerNumber": "5",
+        "runnerStatus": "DOE",
+        "shortRaceForm": ""
+      }
+    },
+    {
+      "_id": "454044",
+      "Name": "Wayfarer",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vhr-11",
+        "runnerNumber": "11",
+        "runnerStatus": "DOE",
+        "shortRaceForm": ""
+      }
+    },
+    {
+      "_id": "453970",
+      "Name": "Odessa",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vhr-2",
+        "runnerNumber": "2",
+        "runnerStatus": "DOE",
+        "shortRaceForm": ""
+      }
+    }
+  ],
+  "RegionCode": "ZZ",
+  "RegionId": "245",
+  "RegionName": "International",
+  "SportId": "73",
+  "SportName": "Virtual Sports 3Way",
+  "SportOrder": 73,
+  "StartEventDate": "2019-08-28T11:03:21.000Z",
+  "Status": 0,
+  "Tags": [],
+  "TotalBets": 0,
+  "TotalDeposit": 0,
+  "TotalMarketsCount": 3,
+  "Type": "Outright"
+},
+{
+  "_DATE_CLEANUP": "2019-08-28T12:28:44.474Z",
+  "_id": "64619297",
+  "BetslipLine": "Raceday 182447 (11:00:50)",
+  "BetslipLinePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "10",
+      "{0}": "Raceday 182447 (11:00:50)"
+    }
+  },
+  "EventName": "Raceday 182447 (11:00:50)",
+  "EventNamePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "10",
+      "{0}": "Raceday 182447 (11:00:50)"
+    }
+  },
+  "FeedId": "1",
+  "IsGoingLive": false,
+  "IsLive": false,
+  "IsRemoved": false,
+  "IsSuspended": false,
+  "IsTeamSwap": false,
+  "IsTopLeague": false,
+  "LastUpdateDateTime": "2019-08-28T10:24:16.263Z",
+  "LeagueGroupId": "312",
+  "LeagueId": "98365",
+  "LeagueName": "Virtual Horse Racing",
+  "LeagueOrder": 2057,
+  "MarketGroups": [],
+  "MarketLinesCount": 3,
+  "Markets": [
+    "64619297",
+    "4_64619297",
+    "5_64619297"
+  ],
+  "MasterLeagueId": "13240",
+  "MasterLiveLeagueId": "0",
+  "Media": [],
+  "Metadata": {
+    "masterLeagueId": "13240"
+  },
+  "Participants": [],
+  "RegionCode": "ZZ",
+  "RegionId": "245",
+  "RegionName": "International",
+  "SportId": "73",
+  "SportName": "Virtual Sports 3Way",
+  "SportOrder": 73,
+  "StartEventDate": "2019-08-28T11:00:50.000Z",
+  "Status": 0,
+  "Tags": [],
+  "TotalBets": 0,
+  "TotalDeposit": 0,
+  "TotalMarketsCount": 3,
+  "Type": "Outright"
+},
+{
+  "_DATE_CLEANUP": "2019-08-28T12:28:44.474Z",
+  "_id": "64619296",
+  "BetslipLine": "Raceday 182447 (10:57:25)",
+  "BetslipLinePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "10",
+      "{0}": "Raceday 182447 (10:57:25)"
+    }
+  },
+  "EventName": "Raceday 182447 (10:57:25)",
+  "EventNamePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "10",
+      "{0}": "Raceday 182447 (10:57:25)"
+    }
+  },
+  "FeedId": "1",
+  "IsGoingLive": false,
+  "IsLive": false,
+  "IsRemoved": false,
+  "IsSuspended": false,
+  "IsTeamSwap": false,
+  "IsTopLeague": false,
+  "LastUpdateDateTime": "2019-08-28T10:24:16.263Z",
+  "LeagueGroupId": "312",
+  "LeagueId": "98365",
+  "LeagueName": "Virtual Horse Racing",
+  "LeagueOrder": 2057,
+  "MarketGroups": [],
+  "MarketLinesCount": 3,
+  "Markets": [
+    "5_64619296",
+    "4_64619296",
+    "64619296"
+  ],
+  "MasterLeagueId": "13240",
+  "MasterLiveLeagueId": "0",
+  "Media": [],
+  "Metadata": {
+    "masterLeagueId": "13240"
+  },
+  "Participants": [],
+  "RegionCode": "ZZ",
+  "RegionId": "245",
+  "RegionName": "International",
+  "SportId": "73",
+  "SportName": "Virtual Sports 3Way",
+  "SportOrder": 73,
+  "StartEventDate": "2019-08-28T10:57:25.000Z",
+  "Status": 0,
+  "Tags": [],
+  "TotalBets": 0,
+  "TotalDeposit": 0,
+  "TotalMarketsCount": 3,
+  "Type": "Outright"
+},
+{
+  "_DATE_CLEANUP": "2019-08-28T12:28:44.926Z",
+  "_id": "64619295",
+  "BetslipLine": "Raceday 182447 (10:54:54)",
+  "BetslipLinePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "10",
+      "{0}": "Raceday 182447 (10:54:54)"
+    }
+  },
+  "EventName": "Raceday 182447 (10:54:54)",
+  "EventNamePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "10",
+      "{0}": "Raceday 182447 (10:54:54)"
+    }
+  },
+  "FeedId": "1",
+  "IsGoingLive": false,
+  "IsLive": false,
+  "IsRemoved": false,
+  "IsSuspended": false,
+  "IsTeamSwap": false,
+  "IsTopLeague": false,
+  "LastUpdateDateTime": "2019-08-28T10:24:16.689Z",
+  "LeagueGroupId": "312",
+  "LeagueId": "98365",
+  "LeagueName": "Virtual Horse Racing",
+  "LeagueOrder": 2057,
+  "MarketGroups": [],
+  "MarketLinesCount": 3,
+  "Markets": [
+    "64619295",
+    "5_64619295",
+    "4_64619295"
+  ],
+  "MasterLeagueId": "13240",
+  "MasterLiveLeagueId": "0",
+  "Media": [],
+  "Metadata": {
+    "masterLeagueId": "13240"
+  },
+  "Participants": [
+    {
+      "_id": "454002",
+      "Name": "Pendulum",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vhr-9",
+        "runnerNumber": "9",
+        "runnerStatus": "DOE",
+        "shortRaceForm": ""
+      }
+    },
+    {
+      "_id": "454003",
+      "Name": "Septimian",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vhr-10",
+        "runnerNumber": "10",
+        "runnerStatus": "DOE",
+        "shortRaceForm": ""
+      }
+    },
+    {
+      "_id": "454001",
+      "Name": "Mr. Pepperoni",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vhr-5",
+        "runnerNumber": "5",
+        "runnerStatus": "DOE",
+        "shortRaceForm": ""
+      }
+    },
+    {
+      "_id": "454000",
+      "Name": "Vinheim",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vhr-2",
+        "runnerNumber": "2",
+        "runnerStatus": "DOE",
+        "shortRaceForm": ""
+      }
+    },
+    {
+      "_id": "453999",
+      "Name": "Salem",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vhr-11",
+        "runnerNumber": "11",
+        "runnerStatus": "DOE",
+        "shortRaceForm": ""
+      }
+    },
+    {
+      "_id": "453998",
+      "Name": "Polyanna",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vhr-7",
+        "runnerNumber": "7",
+        "runnerStatus": "DOE",
+        "shortRaceForm": ""
+      }
+    },
+    {
+      "_id": "453997",
+      "Name": "Libby",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vhr-8",
+        "runnerNumber": "8",
+        "runnerStatus": "DOE",
+        "shortRaceForm": ""
+      }
+    },
+    {
+      "_id": "453996",
+      "Name": "Jane Anne",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vhr-4",
+        "runnerNumber": "4",
+        "runnerStatus": "DOE",
+        "shortRaceForm": ""
+      }
+    },
+    {
+      "_id": "453995",
+      "Name": "Canned Heat",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vhr-3",
+        "runnerNumber": "3",
+        "runnerStatus": "DOE",
+        "shortRaceForm": ""
+      }
+    },
+    {
+      "_id": "453994",
+      "Name": "Crimson Star",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vhr-12",
+        "runnerNumber": "12",
+        "runnerStatus": "DOE",
+        "shortRaceForm": ""
+      }
+    },
+    {
+      "_id": "453993",
+      "Name": "Wichita",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vhr-1",
+        "runnerNumber": "1",
+        "runnerStatus": "DOE",
+        "shortRaceForm": ""
+      }
+    },
+    {
+      "_id": "453992",
+      "Name": "Orange Juice",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vhr-6",
+        "runnerNumber": "6",
+        "runnerStatus": "DOE",
+        "shortRaceForm": ""
+      }
+    }
+  ],
+  "RegionCode": "ZZ",
+  "RegionId": "245",
+  "RegionName": "International",
+  "SportId": "73",
+  "SportName": "Virtual Sports 3Way",
+  "SportOrder": 73,
+  "StartEventDate": "2019-08-28T10:54:54.000Z",
+  "Status": 0,
+  "Tags": [],
+  "TotalBets": 0,
+  "TotalDeposit": 0,
+  "TotalMarketsCount": 3,
+  "Type": "Outright"
+},
+{
+  "_DATE_CLEANUP": "2019-08-28T12:28:44.926Z",
+  "_id": "64619294",
+  "BetslipLine": "Raceday 182447 (10:51:29)",
+  "BetslipLinePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "10",
+      "{0}": "Raceday 182447 (10:51:29)"
+    }
+  },
+  "EventName": "Raceday 182447 (10:51:29)",
+  "EventNamePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "10",
+      "{0}": "Raceday 182447 (10:51:29)"
+    }
+  },
+  "FeedId": "1",
+  "IsGoingLive": false,
+  "IsLive": false,
+  "IsRemoved": false,
+  "IsSuspended": false,
+  "IsTeamSwap": false,
+  "IsTopLeague": false,
+  "LastUpdateDateTime": "2019-08-28T10:24:16.689Z",
+  "LeagueGroupId": "312",
+  "LeagueId": "98365",
+  "LeagueName": "Virtual Horse Racing",
+  "LeagueOrder": 2057,
+  "MarketGroups": [],
+  "MarketLinesCount": 3,
+  "Markets": [
+    "5_64619294",
+    "4_64619294",
+    "64619294"
+  ],
+  "MasterLeagueId": "13240",
+  "MasterLiveLeagueId": "0",
+  "Media": [],
+  "Metadata": {
+    "masterLeagueId": "13240"
+  },
+  "Participants": [
+    {
+      "_id": "453987",
+      "Name": "Miss Mischief",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vhr-5",
+        "runnerNumber": "5",
+        "runnerStatus": "DOE",
+        "shortRaceForm": ""
+      }
+    },
+    {
+      "_id": "453989",
+      "Name": "Good Tidings",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vhr-7",
+        "runnerNumber": "7",
+        "runnerStatus": "DOE",
+        "shortRaceForm": ""
+      }
+    },
+    {
+      "_id": "453988",
+      "Name": "El Diablo",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vhr-1",
+        "runnerNumber": "1",
+        "runnerStatus": "DOE",
+        "shortRaceForm": ""
+      }
+    },
+    {
+      "_id": "453986",
+      "Name": "Grand Prix",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vhr-4",
+        "runnerNumber": "4",
+        "runnerStatus": "DOE",
+        "shortRaceForm": ""
+      }
+    },
+    {
+      "_id": "453985",
+      "Name": "Ever Autumn",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vhr-3",
+        "runnerNumber": "3",
+        "runnerStatus": "DOE",
+        "shortRaceForm": ""
+      }
+    },
+    {
+      "_id": "453984",
+      "Name": "Wingates",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vhr-8",
+        "runnerNumber": "8",
+        "runnerStatus": "DOE",
+        "shortRaceForm": ""
+      }
+    },
+    {
+      "_id": "453990",
+      "Name": "Kiev Machine",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vhr-2",
+        "runnerNumber": "2",
+        "runnerStatus": "DOE",
+        "shortRaceForm": ""
+      }
+    },
+    {
+      "_id": "453991",
+      "Name": "Cool Beans",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vhr-6",
+        "runnerNumber": "6",
+        "runnerStatus": "DOE",
+        "shortRaceForm": ""
+      }
+    }
+  ],
+  "RegionCode": "ZZ",
+  "RegionId": "245",
+  "RegionName": "International",
+  "SportId": "73",
+  "SportName": "Virtual Sports 3Way",
+  "SportOrder": 73,
+  "StartEventDate": "2019-08-28T10:51:29.000Z",
+  "Status": 0,
+  "Tags": [],
+  "TotalBets": 0,
+  "TotalDeposit": 0,
+  "TotalMarketsCount": 3,
+  "Type": "Outright"
+},
+{
+  "_DATE_CLEANUP": "2019-08-28T12:28:44.925Z",
+  "_id": "64619292",
+  "BetslipLine": "Raceday 182447 (10:48:58)",
+  "BetslipLinePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "10",
+      "{0}": "Raceday 182447 (10:48:58)"
+    }
+  },
+  "EventName": "Raceday 182447 (10:48:58)",
+  "EventNamePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "10",
+      "{0}": "Raceday 182447 (10:48:58)"
+    }
+  },
+  "FeedId": "1",
+  "IsGoingLive": false,
+  "IsLive": false,
+  "IsRemoved": false,
+  "IsSuspended": false,
+  "IsTeamSwap": false,
+  "IsTopLeague": false,
+  "LastUpdateDateTime": "2019-08-28T10:24:16.689Z",
+  "LeagueGroupId": "312",
+  "LeagueId": "98365",
+  "LeagueName": "Virtual Horse Racing",
+  "LeagueOrder": 2057,
+  "MarketGroups": [],
+  "MarketLinesCount": 3,
+  "Markets": [
+    "64619292",
+    "4_64619292",
+    "5_64619292"
+  ],
+  "MasterLeagueId": "13240",
+  "MasterLiveLeagueId": "0",
+  "Media": [],
+  "Metadata": {
+    "masterLeagueId": "13240"
+  },
+  "Participants": [
+    {
+      "_id": "454043",
+      "Name": "Thistledown",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vhr-6",
+        "runnerNumber": "6",
+        "runnerStatus": "DOE",
+        "shortRaceForm": ""
+      }
+    },
+    {
+      "_id": "454041",
+      "Name": "Kilroy",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vhr-2",
+        "runnerNumber": "2",
+        "runnerStatus": "DOE",
+        "shortRaceForm": ""
+      }
+    },
+    {
+      "_id": "453994",
+      "Name": "Crimson Star",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vhr-9",
+        "runnerNumber": "9",
+        "runnerStatus": "DOE",
+        "shortRaceForm": ""
+      }
+    },
+    {
+      "_id": "454005",
+      "Name": "Blue Moon",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vhr-8",
+        "runnerNumber": "8",
+        "runnerStatus": "DOE",
+        "shortRaceForm": ""
+      }
+    },
+    {
+      "_id": "454042",
+      "Name": "My Little Tori",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vhr-3",
+        "runnerNumber": "3",
+        "runnerStatus": "DOE",
+        "shortRaceForm": ""
+      }
+    },
+    {
+      "_id": "454045",
+      "Name": "Vanity",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vhr-7",
+        "runnerNumber": "7",
+        "runnerStatus": "DOE",
+        "shortRaceForm": ""
+      }
+    },
+    {
+      "_id": "454001",
+      "Name": "Mr. Pepperoni",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vhr-10",
+        "runnerNumber": "10",
+        "runnerStatus": "DOE",
+        "shortRaceForm": ""
+      }
+    },
+    {
+      "_id": "453998",
+      "Name": "Polyanna",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vhr-5",
+        "runnerNumber": "5",
+        "runnerStatus": "DOE",
+        "shortRaceForm": ""
+      }
+    },
+    {
+      "_id": "454006",
+      "Name": "Razor Girl",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vhr-4",
+        "runnerNumber": "4",
+        "runnerStatus": "DOE",
+        "shortRaceForm": ""
+      }
+    },
+    {
+      "_id": "454044",
+      "Name": "Wayfarer",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vhr-1",
+        "runnerNumber": "1",
+        "runnerStatus": "DOE",
+        "shortRaceForm": ""
+      }
+    }
+  ],
+  "RegionCode": "ZZ",
+  "RegionId": "245",
+  "RegionName": "International",
+  "SportId": "73",
+  "SportName": "Virtual Sports 3Way",
+  "SportOrder": 73,
+  "StartEventDate": "2019-08-28T10:48:58.000Z",
+  "Status": 0,
+  "Tags": [],
+  "TotalBets": 0,
+  "TotalDeposit": 0,
+  "TotalMarketsCount": 3,
+  "Type": "Outright"
+},
+{
+  "_DATE_CLEANUP": "2019-08-28T12:28:44.926Z",
+  "_id": "64619291",
+  "BetslipLine": "Raceday 182447 (10:45:33)",
+  "BetslipLinePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "10",
+      "{0}": "Raceday 182447 (10:45:33)"
+    }
+  },
+  "EventName": "Raceday 182447 (10:45:33)",
+  "EventNamePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "10",
+      "{0}": "Raceday 182447 (10:45:33)"
+    }
+  },
+  "FeedId": "1",
+  "IsGoingLive": false,
+  "IsLive": false,
+  "IsRemoved": false,
+  "IsSuspended": false,
+  "IsTeamSwap": false,
+  "IsTopLeague": false,
+  "LastUpdateDateTime": "2019-08-28T10:24:16.689Z",
+  "LeagueGroupId": "312",
+  "LeagueId": "98365",
+  "LeagueName": "Virtual Horse Racing",
+  "LeagueOrder": 2057,
+  "MarketGroups": [],
+  "MarketLinesCount": 3,
+  "Markets": [
+    "5_64619291",
+    "64619291",
+    "4_64619291"
+  ],
+  "MasterLeagueId": "13240",
+  "MasterLiveLeagueId": "0",
+  "Media": [],
+  "Metadata": {
+    "masterLeagueId": "13240"
+  },
+  "Participants": [
+    {
+      "_id": "453985",
+      "Name": "Ever Autumn",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vhr-1",
+        "runnerNumber": "1",
+        "runnerStatus": "DOE",
+        "shortRaceForm": ""
+      }
+    },
+    {
+      "_id": "453989",
+      "Name": "Good Tidings",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vhr-7",
+        "runnerNumber": "7",
+        "runnerStatus": "DOE",
+        "shortRaceForm": ""
+      }
+    },
+    {
+      "_id": "453990",
+      "Name": "Kiev Machine",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vhr-8",
+        "runnerNumber": "8",
+        "runnerStatus": "DOE",
+        "shortRaceForm": ""
+      }
+    },
+    {
+      "_id": "453963",
+      "Name": "Ouroboros",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vhr-5",
+        "runnerNumber": "5",
+        "runnerStatus": "DOE",
+        "shortRaceForm": ""
+      }
+    },
+    {
+      "_id": "453988",
+      "Name": "El Diablo",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vhr-4",
+        "runnerNumber": "4",
+        "runnerStatus": "DOE",
+        "shortRaceForm": ""
+      }
+    },
+    {
+      "_id": "453984",
+      "Name": "Wingates",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vhr-2",
+        "runnerNumber": "2",
+        "runnerStatus": "DOE",
+        "shortRaceForm": ""
+      }
+    },
+    {
+      "_id": "453961",
+      "Name": "Prospero",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vhr-3",
+        "runnerNumber": "3",
+        "runnerStatus": "DOE",
+        "shortRaceForm": ""
+      }
+    },
+    {
+      "_id": "454004",
+      "Name": "Caliber",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vhr-6",
+        "runnerNumber": "6",
+        "runnerStatus": "DOE",
+        "shortRaceForm": ""
+      }
+    }
+  ],
+  "RegionCode": "ZZ",
+  "RegionId": "245",
+  "RegionName": "International",
+  "SportId": "73",
+  "SportName": "Virtual Sports 3Way",
+  "SportOrder": 73,
+  "StartEventDate": "2019-08-28T10:45:33.000Z",
+  "Status": 0,
+  "Tags": [],
+  "TotalBets": 0,
+  "TotalDeposit": 0,
+  "TotalMarketsCount": 3,
+  "Type": "Outright"
+},
+{
+  "_DATE_CLEANUP": "2019-08-28T12:28:43.885Z",
+  "_id": "64619285",
+  "BetslipLine": "Raceday 182447 (10:43:02)",
+  "BetslipLinePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "10",
+      "{0}": "Raceday 182447 (10:43:02)"
+    }
+  },
+  "EventName": "Raceday 182447 (10:43:02)",
+  "EventNamePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "10",
+      "{0}": "Raceday 182447 (10:43:02)"
+    }
+  },
+  "FeedId": "1",
+  "IsGoingLive": false,
+  "IsLive": false,
+  "IsRemoved": false,
+  "IsSuspended": false,
+  "IsTeamSwap": false,
+  "IsTopLeague": false,
+  "LastUpdateDateTime": "2019-08-28T10:24:11.129Z",
+  "LeagueGroupId": "312",
+  "LeagueId": "98365",
+  "LeagueName": "Virtual Horse Racing",
+  "LeagueOrder": 2057,
+  "MarketGroups": [],
+  "MarketLinesCount": 3,
+  "Markets": [
+    "64619285",
+    "5_64619285",
+    "4_64619285"
+  ],
+  "MasterLeagueId": "13240",
+  "MasterLiveLeagueId": "0",
+  "Media": [],
+  "Metadata": {
+    "masterLeagueId": "13240"
+  },
+  "Participants": [
+    {
+      "_id": "453977",
+      "Name": "Carl Gustav",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vhr-2",
+        "runnerNumber": "2",
+        "runnerStatus": "DOE",
+        "shortRaceForm": ""
+      }
+    },
+    {
+      "_id": "453980",
+      "Name": "Carthago",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vhr-7",
+        "runnerNumber": "7",
+        "runnerStatus": "DOE",
+        "shortRaceForm": ""
+      }
+    },
+    {
+      "_id": "453979",
+      "Name": "Ariadne",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vhr-6",
+        "runnerNumber": "6",
+        "runnerStatus": "DOE",
+        "shortRaceForm": ""
+      }
+    },
+    {
+      "_id": "453978",
+      "Name": "Bumpkin",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vhr-4",
+        "runnerNumber": "4",
+        "runnerStatus": "DOE",
+        "shortRaceForm": ""
+      }
+    },
+    {
+      "_id": "453981",
+      "Name": "Piccola Bella",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vhr-8",
+        "runnerNumber": "8",
+        "runnerStatus": "DOE",
+        "shortRaceForm": ""
+      }
+    },
+    {
+      "_id": "453976",
+      "Name": "Up And Away",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vhr-11",
+        "runnerNumber": "11",
+        "runnerStatus": "DOE",
+        "shortRaceForm": ""
+      }
+    },
+    {
+      "_id": "453975",
+      "Name": "Legend",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vhr-3",
+        "runnerNumber": "3",
+        "runnerStatus": "DOE",
+        "shortRaceForm": ""
+      }
+    },
+    {
+      "_id": "453974",
+      "Name": "Day In June",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vhr-1",
+        "runnerNumber": "1",
+        "runnerStatus": "DOE",
+        "shortRaceForm": ""
+      }
+    },
+    {
+      "_id": "453972",
+      "Name": "With Love",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vhr-12",
+        "runnerNumber": "12",
+        "runnerStatus": "DOE",
+        "shortRaceForm": ""
+      }
+    },
+    {
+      "_id": "453971",
+      "Name": "Papillon",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vhr-10",
+        "runnerNumber": "10",
+        "runnerStatus": "DOE",
+        "shortRaceForm": ""
+      }
+    },
+    {
+      "_id": "453973",
+      "Name": "Panama",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vhr-9",
+        "runnerNumber": "9",
+        "runnerStatus": "DOE",
+        "shortRaceForm": ""
+      }
+    },
+    {
+      "_id": "453970",
+      "Name": "Odessa",
+      "VenueRole": null,
+      "Country": null,
+      "Metadata": {
+        "iconUrl": "https://cdn.sbtech.com/silks/vhr-5",
+        "runnerNumber": "5",
+        "runnerStatus": "DOE",
+        "shortRaceForm": ""
+      }
+    }
+  ],
+  "RegionCode": "ZZ",
+  "RegionId": "245",
+  "RegionName": "International",
+  "SportId": "73",
+  "SportName": "Virtual Sports 3Way",
+  "SportOrder": 73,
+  "StartEventDate": "2019-08-28T10:43:02.000Z",
+  "Status": 0,
+  "Tags": [],
+  "TotalBets": 0,
+  "TotalDeposit": 0,
+  "TotalMarketsCount": 3,
+  "Type": "Outright"
+},

@@ -1,0 +1,14 @@
+{
+  "mongo": {
+    "en": {
+      "mongoURL": "mongodb://localhost:27027",
+      "database": "SportsTestNetCore_en"
+    },
+    "ua": {
+      "mongoURL": "mongodb://localhost:27027",
+      "database": "SportsTestNetCore_ua"
+    }
+  },
+  "anonymousUser": "anonymousUser"
+}
+

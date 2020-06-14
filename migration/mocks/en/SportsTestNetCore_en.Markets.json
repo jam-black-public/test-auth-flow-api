@@ -1,0 +1,1574 @@
+{
+  "_DATE_CLEANUP": "2019-08-28T12:32:42.117Z",
+  "_id": "64619419",
+  "BetslipLine": "Correct Score (Virtual)",
+  "BetslipLinePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "3,8,10",
+      "{0}": "Correct Score (Virtual)"
+    }
+  },
+  "EventId": "15103386",
+  "Groups": [],
+  "InMarketGroups": [],
+  "IsLive": false,
+  "IsQA": true,
+  "IsRemoved": false,
+  "IsSuspended": false,
+  "LastUpdateDateTime": "2019-08-28T10:32:36.605Z",
+  "LeagueId": "95505",
+  "LiveData": null,
+  "MarketType": {
+    "_id": "397",
+    "Name": "Correct Score (Virtual)",
+    "NamePattern": null,
+    "LineTypeId": null,
+    "LineTypeName": null,
+    "ShortName": "Corr Score",
+    "IsCastMarket": false
+  },
+  "Metadata": {},
+  "Name": "Correct Score (Virtual)",
+  "NamePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "3,8,10",
+      "{0}": "Correct Score (Virtual)"
+    }
+  },
+  "Settings": {
+    "ForecastMaxBet": null,
+    "TricastMaxBet": null,
+    "AmericanConfig": false,
+    "CombinabilityIndex": 1,
+    "CashoutSingles": true,
+    "CashoutCombos": true,
+    "CashoutSystems": false,
+    "CashoutPartial": true,
+    "YourBetRate": "0.00",
+    "YourBetMaxBet": "0.0000",
+    "YourBetMaxWin": "0.0000",
+    "EnableYourBetWB": false,
+    "YourBetIsEnabled": false,
+    "MinComboSelections": null,
+    "BestOddsGuaranteed": false
+  },
+  "SplitTypeId": 29,
+  "SportId": "73",
+  "StartDate": "2019-08-28T10:40:05.000Z",
+  "Tags": [
+    "Cashout"
+  ],
+  "TemplateId": 18685,
+  "Title": "",
+  "TotalBets": 0,
+  "TotalDeposit": 0,
+  "TotalSelectionsCount": 16
+},
+{
+  "_DATE_CLEANUP": "2019-08-28T12:32:42.117Z",
+  "_id": "64619418",
+  "BetslipLine": "Correct Score (Virtual)",
+  "BetslipLinePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "3,8,10",
+      "{0}": "Correct Score (Virtual)"
+    }
+  },
+  "EventId": "15103385",
+  "Groups": [],
+  "InMarketGroups": [],
+  "IsLive": false,
+  "IsQA": true,
+  "IsRemoved": false,
+  "IsSuspended": false,
+  "LastUpdateDateTime": "2019-08-28T10:32:36.603Z",
+  "LeagueId": "95505",
+  "LiveData": null,
+  "MarketType": {
+    "_id": "397",
+    "Name": "Correct Score (Virtual)",
+    "NamePattern": null,
+    "LineTypeId": null,
+    "LineTypeName": null,
+    "ShortName": "Corr Score",
+    "IsCastMarket": false
+  },
+  "Metadata": {},
+  "Name": "Correct Score (Virtual)",
+  "NamePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "3,8,10",
+      "{0}": "Correct Score (Virtual)"
+    }
+  },
+  "Settings": {
+    "ForecastMaxBet": null,
+    "TricastMaxBet": null,
+    "AmericanConfig": false,
+    "CombinabilityIndex": 1,
+    "CashoutSingles": true,
+    "CashoutCombos": true,
+    "CashoutSystems": false,
+    "CashoutPartial": true,
+    "YourBetRate": "0.00",
+    "YourBetMaxBet": "0.0000",
+    "YourBetMaxWin": "0.0000",
+    "EnableYourBetWB": false,
+    "YourBetIsEnabled": false,
+    "MinComboSelections": null,
+    "BestOddsGuaranteed": false
+  },
+  "SplitTypeId": 29,
+  "SportId": "73",
+  "StartDate": "2019-08-28T10:40:05.000Z",
+  "Tags": [
+    "Cashout"
+  ],
+  "TemplateId": 18685,
+  "Title": "",
+  "TotalBets": 0,
+  "TotalDeposit": 0,
+  "TotalSelectionsCount": 16
+},
+{
+  "_DATE_CLEANUP": "2019-08-28T12:32:42.117Z",
+  "_id": "64619417",
+  "BetslipLine": "Correct Score (Virtual)",
+  "BetslipLinePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "3,8,10",
+      "{0}": "Correct Score (Virtual)"
+    }
+  },
+  "EventId": "15103384",
+  "Groups": [],
+  "InMarketGroups": [],
+  "IsLive": false,
+  "IsQA": true,
+  "IsRemoved": false,
+  "IsSuspended": false,
+  "LastUpdateDateTime": "2019-08-28T10:32:36.602Z",
+  "LeagueId": "95505",
+  "LiveData": null,
+  "MarketType": {
+    "_id": "397",
+    "Name": "Correct Score (Virtual)",
+    "NamePattern": null,
+    "LineTypeId": null,
+    "LineTypeName": null,
+    "ShortName": "Corr Score",
+    "IsCastMarket": false
+  },
+  "Metadata": {},
+  "Name": "Correct Score (Virtual)",
+  "NamePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "3,8,10",
+      "{0}": "Correct Score (Virtual)"
+    }
+  },
+  "Settings": {
+    "ForecastMaxBet": null,
+    "TricastMaxBet": null,
+    "AmericanConfig": false,
+    "CombinabilityIndex": 1,
+    "CashoutSingles": true,
+    "CashoutCombos": true,
+    "CashoutSystems": false,
+    "CashoutPartial": true,
+    "YourBetRate": "0.00",
+    "YourBetMaxBet": "0.0000",
+    "YourBetMaxWin": "0.0000",
+    "EnableYourBetWB": false,
+    "YourBetIsEnabled": false,
+    "MinComboSelections": null,
+    "BestOddsGuaranteed": false
+  },
+  "SplitTypeId": 29,
+  "SportId": "73",
+  "StartDate": "2019-08-28T10:40:05.000Z",
+  "Tags": [
+    "Cashout"
+  ],
+  "TemplateId": 18685,
+  "Title": "",
+  "TotalBets": 0,
+  "TotalDeposit": 0,
+  "TotalSelectionsCount": 16
+},
+{
+  "_DATE_CLEANUP": "2019-08-28T12:32:42.117Z",
+  "_id": "64619416",
+  "BetslipLine": "Correct Score (Virtual)",
+  "BetslipLinePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "3,8,10",
+      "{0}": "Correct Score (Virtual)"
+    }
+  },
+  "EventId": "15103383",
+  "Groups": [],
+  "InMarketGroups": [],
+  "IsLive": false,
+  "IsQA": true,
+  "IsRemoved": false,
+  "IsSuspended": false,
+  "LastUpdateDateTime": "2019-08-28T10:32:36.604Z",
+  "LeagueId": "95505",
+  "LiveData": null,
+  "MarketType": {
+    "_id": "397",
+    "Name": "Correct Score (Virtual)",
+    "NamePattern": null,
+    "LineTypeId": null,
+    "LineTypeName": null,
+    "ShortName": "Corr Score",
+    "IsCastMarket": false
+  },
+  "Metadata": {},
+  "Name": "Correct Score (Virtual)",
+  "NamePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "3,8,10",
+      "{0}": "Correct Score (Virtual)"
+    }
+  },
+  "Settings": {
+    "ForecastMaxBet": null,
+    "TricastMaxBet": null,
+    "AmericanConfig": false,
+    "CombinabilityIndex": 1,
+    "CashoutSingles": true,
+    "CashoutCombos": true,
+    "CashoutSystems": false,
+    "CashoutPartial": true,
+    "YourBetRate": "0.00",
+    "YourBetMaxBet": "0.0000",
+    "YourBetMaxWin": "0.0000",
+    "EnableYourBetWB": false,
+    "YourBetIsEnabled": false,
+    "MinComboSelections": null,
+    "BestOddsGuaranteed": false
+  },
+  "SplitTypeId": 29,
+  "SportId": "73",
+  "StartDate": "2019-08-28T10:40:05.000Z",
+  "Tags": [
+    "Cashout"
+  ],
+  "TemplateId": 18685,
+  "Title": "",
+  "TotalBets": 0,
+  "TotalDeposit": 0,
+  "TotalSelectionsCount": 15
+},
+{
+  "_DATE_CLEANUP": "2019-08-28T12:32:42.117Z",
+  "_id": "64619415",
+  "BetslipLine": "Correct Score (Virtual)",
+  "BetslipLinePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "3,8,10",
+      "{0}": "Correct Score (Virtual)"
+    }
+  },
+  "EventId": "15103382",
+  "Groups": [],
+  "InMarketGroups": [],
+  "IsLive": false,
+  "IsQA": true,
+  "IsRemoved": false,
+  "IsSuspended": false,
+  "LastUpdateDateTime": "2019-08-28T10:32:36.602Z",
+  "LeagueId": "95505",
+  "LiveData": null,
+  "MarketType": {
+    "_id": "397",
+    "Name": "Correct Score (Virtual)",
+    "NamePattern": null,
+    "LineTypeId": null,
+    "LineTypeName": null,
+    "ShortName": "Corr Score",
+    "IsCastMarket": false
+  },
+  "Metadata": {},
+  "Name": "Correct Score (Virtual)",
+  "NamePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "3,8,10",
+      "{0}": "Correct Score (Virtual)"
+    }
+  },
+  "Settings": {
+    "ForecastMaxBet": null,
+    "TricastMaxBet": null,
+    "AmericanConfig": false,
+    "CombinabilityIndex": 1,
+    "CashoutSingles": true,
+    "CashoutCombos": true,
+    "CashoutSystems": false,
+    "CashoutPartial": true,
+    "YourBetRate": "0.00",
+    "YourBetMaxBet": "0.0000",
+    "YourBetMaxWin": "0.0000",
+    "EnableYourBetWB": false,
+    "YourBetIsEnabled": false,
+    "MinComboSelections": null,
+    "BestOddsGuaranteed": false
+  },
+  "SplitTypeId": 29,
+  "SportId": "73",
+  "StartDate": "2019-08-28T10:40:05.000Z",
+  "Tags": [
+    "Cashout"
+  ],
+  "TemplateId": 18685,
+  "Title": "",
+  "TotalBets": 0,
+  "TotalDeposit": 0,
+  "TotalSelectionsCount": 16
+},
+{
+  "_DATE_CLEANUP": "2019-08-28T12:32:42.117Z",
+  "_id": "64619414",
+  "BetslipLine": "Correct Score (Virtual)",
+  "BetslipLinePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "3,8,10",
+      "{0}": "Correct Score (Virtual)"
+    }
+  },
+  "EventId": "15103381",
+  "Groups": [],
+  "InMarketGroups": [],
+  "IsLive": false,
+  "IsQA": true,
+  "IsRemoved": false,
+  "IsSuspended": false,
+  "LastUpdateDateTime": "2019-08-28T10:32:36.601Z",
+  "LeagueId": "95505",
+  "LiveData": null,
+  "MarketType": {
+    "_id": "397",
+    "Name": "Correct Score (Virtual)",
+    "NamePattern": null,
+    "LineTypeId": null,
+    "LineTypeName": null,
+    "ShortName": "Corr Score",
+    "IsCastMarket": false
+  },
+  "Metadata": {},
+  "Name": "Correct Score (Virtual)",
+  "NamePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "3,8,10",
+      "{0}": "Correct Score (Virtual)"
+    }
+  },
+  "Settings": {
+    "ForecastMaxBet": null,
+    "TricastMaxBet": null,
+    "AmericanConfig": false,
+    "CombinabilityIndex": 1,
+    "CashoutSingles": true,
+    "CashoutCombos": true,
+    "CashoutSystems": false,
+    "CashoutPartial": true,
+    "YourBetRate": "0.00",
+    "YourBetMaxBet": "0.0000",
+    "YourBetMaxWin": "0.0000",
+    "EnableYourBetWB": false,
+    "YourBetIsEnabled": false,
+    "MinComboSelections": null,
+    "BestOddsGuaranteed": false
+  },
+  "SplitTypeId": 29,
+  "SportId": "73",
+  "StartDate": "2019-08-28T10:40:05.000Z",
+  "Tags": [
+    "Cashout"
+  ],
+  "TemplateId": 18685,
+  "Title": "",
+  "TotalBets": 0,
+  "TotalDeposit": 0,
+  "TotalSelectionsCount": 16
+},
+{
+  "_DATE_CLEANUP": "2019-08-28T12:31:49.654Z",
+  "_id": "64619413",
+  "BetslipLine": "Correct Score (Virtual)",
+  "BetslipLinePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "3,8,10",
+      "{0}": "Correct Score (Virtual)"
+    }
+  },
+  "EventId": "15103380",
+  "Groups": [],
+  "InMarketGroups": [],
+  "IsLive": false,
+  "IsQA": true,
+  "IsRemoved": false,
+  "IsSuspended": false,
+  "LastUpdateDateTime": "2019-08-28T10:31:48.672Z",
+  "LeagueId": "95505",
+  "LiveData": null,
+  "MarketType": {
+    "_id": "397",
+    "Name": "Correct Score (Virtual)",
+    "NamePattern": null,
+    "LineTypeId": null,
+    "LineTypeName": null,
+    "ShortName": "Corr Score",
+    "IsCastMarket": false
+  },
+  "Metadata": {},
+  "Name": "Correct Score (Virtual)",
+  "NamePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "3,8,10",
+      "{0}": "Correct Score (Virtual)"
+    }
+  },
+  "Settings": {
+    "ForecastMaxBet": null,
+    "TricastMaxBet": null,
+    "AmericanConfig": false,
+    "CombinabilityIndex": 1,
+    "CashoutSingles": true,
+    "CashoutCombos": true,
+    "CashoutSystems": false,
+    "CashoutPartial": true,
+    "YourBetRate": "0.00",
+    "YourBetMaxBet": "0.0000",
+    "YourBetMaxWin": "0.0000",
+    "EnableYourBetWB": false,
+    "YourBetIsEnabled": false,
+    "MinComboSelections": null,
+    "BestOddsGuaranteed": false
+  },
+  "SplitTypeId": 29,
+  "SportId": "73",
+  "StartDate": "2019-08-28T10:40:05.000Z",
+  "Tags": [
+    "Cashout"
+  ],
+  "TemplateId": 18685,
+  "Title": "",
+  "TotalBets": 0,
+  "TotalDeposit": 0,
+  "TotalSelectionsCount": 16
+},
+{
+  "_DATE_CLEANUP": "2019-08-28T12:31:49.654Z",
+  "_id": "64619412",
+  "BetslipLine": "Correct Score (Virtual)",
+  "BetslipLinePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "3,8,10",
+      "{0}": "Correct Score (Virtual)"
+    }
+  },
+  "EventId": "15103379",
+  "Groups": [],
+  "InMarketGroups": [],
+  "IsLive": false,
+  "IsQA": true,
+  "IsRemoved": false,
+  "IsSuspended": false,
+  "LastUpdateDateTime": "2019-08-28T10:31:48.671Z",
+  "LeagueId": "95505",
+  "LiveData": null,
+  "MarketType": {
+    "_id": "397",
+    "Name": "Correct Score (Virtual)",
+    "NamePattern": null,
+    "LineTypeId": null,
+    "LineTypeName": null,
+    "ShortName": "Corr Score",
+    "IsCastMarket": false
+  },
+  "Metadata": {},
+  "Name": "Correct Score (Virtual)",
+  "NamePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "3,8,10",
+      "{0}": "Correct Score (Virtual)"
+    }
+  },
+  "Settings": {
+    "ForecastMaxBet": null,
+    "TricastMaxBet": null,
+    "AmericanConfig": false,
+    "CombinabilityIndex": 1,
+    "CashoutSingles": true,
+    "CashoutCombos": true,
+    "CashoutSystems": false,
+    "CashoutPartial": true,
+    "YourBetRate": "0.00",
+    "YourBetMaxBet": "0.0000",
+    "YourBetMaxWin": "0.0000",
+    "EnableYourBetWB": false,
+    "YourBetIsEnabled": false,
+    "MinComboSelections": null,
+    "BestOddsGuaranteed": false
+  },
+  "SplitTypeId": 29,
+  "SportId": "73",
+  "StartDate": "2019-08-28T10:40:05.000Z",
+  "Tags": [
+    "Cashout"
+  ],
+  "TemplateId": 18685,
+  "Title": "",
+  "TotalBets": 0,
+  "TotalDeposit": 0,
+  "TotalSelectionsCount": 16
+},
+{
+  "_DATE_CLEANUP": "2019-08-28T10:41:07.239Z",
+  "_id": "64619352",
+  "BetslipLine": "[0 : 0] 1X2 Rest Of The Match Live Betting",
+  "BetslipLinePattern": {
+    "Pattern": "[SH : SA] {0} {3}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "3,8,10",
+      "PhraseClass{3}": "3,8,10",
+      "SA": "0",
+      "SH": "0",
+      "{0}": "1X2 Rest Of The Match",
+      "{3}": "Live Betting"
+    }
+  },
+  "EventId": "15103375",
+  "Groups": [
+    "5708"
+  ],
+  "InMarketGroups": [
+    {
+      "_id": "5708",
+      "SortingKey": 450
+    }
+  ],
+  "IsLive": true,
+  "IsQA": true,
+  "IsRemoved": true,
+  "IsSuspended": false,
+  "LastUpdateDateTime": "2019-08-28T10:31:01.370Z",
+  "LeagueId": "106580",
+  "LiveData": {
+    "ScoreHome": "0",
+    "ScoreAway": "0"
+  },
+  "MarketType": {
+    "_id": "303",
+    "Name": "1X2 Rest Of The Match",
+    "NamePattern": null,
+    "LineTypeId": null,
+    "LineTypeName": null,
+    "ShortName": "1X2ROTM",
+    "IsCastMarket": false
+  },
+  "Metadata": {},
+  "Name": "1X2 Rest Of The Match",
+  "NamePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "3,8,10",
+      "{0}": "1X2 Rest Of The Match"
+    }
+  },
+  "Settings": {
+    "ForecastMaxBet": null,
+    "TricastMaxBet": null,
+    "AmericanConfig": false,
+    "CombinabilityIndex": 1,
+    "CashoutSingles": true,
+    "CashoutCombos": true,
+    "CashoutSystems": false,
+    "CashoutPartial": true,
+    "YourBetRate": "0.00",
+    "YourBetMaxBet": "0.0000",
+    "YourBetMaxWin": "0.0000",
+    "EnableYourBetWB": false,
+    "YourBetIsEnabled": false,
+    "MinComboSelections": null,
+    "BestOddsGuaranteed": null
+  },
+  "SplitTypeId": 3,
+  "SportId": "1",
+  "StartDate": "2019-08-28T10:30:00.000Z",
+  "Tags": [
+    "Cashout"
+  ],
+  "TemplateId": 18227,
+  "Title": "",
+  "TotalBets": 0,
+  "TotalDeposit": 0,
+  "TotalSelectionsCount": 3
+},
+{
+  "_DATE_CLEANUP": "2019-08-28T10:41:07.239Z",
+  "_id": "64619351",
+  "BetslipLine": "[0 : 0] 1st Half Teams Odd/Even Live Betting",
+  "BetslipLinePattern": {
+    "Pattern": "[SH : SA] {0} {3}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "3,8,10",
+      "PhraseClass{3}": "3,8,10",
+      "SA": "0",
+      "SH": "0",
+      "{0}": "1st Half Teams Odd/Even",
+      "{3}": "Live Betting"
+    }
+  },
+  "EventId": "15103375",
+  "Groups": [
+    "5705"
+  ],
+  "InMarketGroups": [
+    {
+      "_id": "5705",
+      "SortingKey": 160
+    }
+  ],
+  "IsLive": true,
+  "IsQA": true,
+  "IsRemoved": true,
+  "IsSuspended": false,
+  "LastUpdateDateTime": "2019-08-28T10:31:01.372Z",
+  "LeagueId": "106580",
+  "LiveData": {
+    "ScoreHome": "0",
+    "ScoreAway": "0"
+  },
+  "MarketType": {
+    "_id": "276",
+    "Name": "1st Half Teams Odd/Even",
+    "NamePattern": null,
+    "LineTypeId": null,
+    "LineTypeName": null,
+    "ShortName": "FHTOE",
+    "IsCastMarket": false
+  },
+  "Metadata": {},
+  "Name": "1st Half Teams Odd/Even",
+  "NamePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "3,8,10",
+      "{0}": "1st Half Teams Odd/Even"
+    }
+  },
+  "Settings": {
+    "ForecastMaxBet": null,
+    "TricastMaxBet": null,
+    "AmericanConfig": false,
+    "CombinabilityIndex": 1,
+    "CashoutSingles": true,
+    "CashoutCombos": true,
+    "CashoutSystems": false,
+    "CashoutPartial": true,
+    "YourBetRate": "0.00",
+    "YourBetMaxBet": "0.0000",
+    "YourBetMaxWin": "0.0000",
+    "EnableYourBetWB": false,
+    "YourBetIsEnabled": false,
+    "MinComboSelections": null,
+    "BestOddsGuaranteed": null
+  },
+  "SplitTypeId": 24,
+  "SportId": "1",
+  "StartDate": "2019-08-28T10:30:00.000Z",
+  "Tags": [
+    "Cashout"
+  ],
+  "TemplateId": 18227,
+  "Title": "",
+  "TotalBets": 0,
+  "TotalDeposit": 0,
+  "TotalSelectionsCount": 4
+},
+{
+  "_DATE_CLEANUP": "2019-08-28T10:41:07.239Z",
+  "_id": "64619350",
+  "BetslipLine": "[0 : 0] 3W Handicap Live Betting",
+  "BetslipLinePattern": {
+    "Pattern": "[SH : SA] {0} {3}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "3,8,10",
+      "PhraseClass{3}": "3,8,10",
+      "SA": "0",
+      "SH": "0",
+      "{0}": "3W Handicap",
+      "{3}": "Live Betting"
+    }
+  },
+  "EventId": "15103375",
+  "Groups": [
+    "5708"
+  ],
+  "InMarketGroups": [
+    {
+      "_id": "5708",
+      "SortingKey": 470
+    }
+  ],
+  "IsLive": true,
+  "IsQA": true,
+  "IsRemoved": true,
+  "IsSuspended": false,
+  "LastUpdateDateTime": "2019-08-28T10:31:01.369Z",
+  "LeagueId": "106580",
+  "LiveData": {
+    "ScoreHome": "0",
+    "ScoreAway": "0"
+  },
+  "MarketType": {
+    "_id": "270",
+    "Name": "3W Handicap",
+    "NamePattern": null,
+    "LineTypeId": null,
+    "LineTypeName": null,
+    "ShortName": "3WHC",
+    "IsCastMarket": false
+  },
+  "Metadata": {},
+  "Name": "3W Handicap",
+  "NamePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "3,8,10",
+      "{0}": "3W Handicap"
+    }
+  },
+  "Settings": {
+    "ForecastMaxBet": null,
+    "TricastMaxBet": null,
+    "AmericanConfig": false,
+    "CombinabilityIndex": 1,
+    "CashoutSingles": true,
+    "CashoutCombos": true,
+    "CashoutSystems": false,
+    "CashoutPartial": true,
+    "YourBetRate": "0.00",
+    "YourBetMaxBet": "0.0000",
+    "YourBetMaxWin": "0.0000",
+    "EnableYourBetWB": false,
+    "YourBetIsEnabled": false,
+    "MinComboSelections": null,
+    "BestOddsGuaranteed": null
+  },
+  "SplitTypeId": 99,
+  "SportId": "1",
+  "StartDate": "2019-08-28T10:30:00.000Z",
+  "Tags": [
+    "Cashout"
+  ],
+  "TemplateId": 18227,
+  "Title": "",
+  "TotalBets": 0,
+  "TotalDeposit": 0,
+  "TotalSelectionsCount": 21
+},
+{
+  "_DATE_CLEANUP": "2019-08-28T10:41:07.239Z",
+  "_id": "64619349",
+  "BetslipLine": "[0 : 0] 1st Half Odd/Even Live Betting",
+  "BetslipLinePattern": {
+    "Pattern": "[SH : SA] {0} {3}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "3,8,10",
+      "PhraseClass{3}": "3,8,10",
+      "SA": "0",
+      "SH": "0",
+      "{0}": "1st Half Odd/Even",
+      "{3}": "Live Betting"
+    }
+  },
+  "EventId": "15103375",
+  "Groups": [
+    "5705"
+  ],
+  "InMarketGroups": [
+    {
+      "_id": "5705",
+      "SortingKey": 90
+    }
+  ],
+  "IsLive": true,
+  "IsQA": true,
+  "IsRemoved": true,
+  "IsSuspended": false,
+  "LastUpdateDateTime": "2019-08-28T10:31:01.370Z",
+  "LeagueId": "106580",
+  "LiveData": {
+    "ScoreHome": "0",
+    "ScoreAway": "0"
+  },
+  "MarketType": {
+    "_id": "262",
+    "Name": "1st Half Odd/Even",
+    "NamePattern": null,
+    "LineTypeId": null,
+    "LineTypeName": null,
+    "ShortName": "FHOE",
+    "IsCastMarket": false
+  },
+  "Metadata": {},
+  "Name": "1st Half Odd/Even",
+  "NamePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "3,8,10",
+      "{0}": "1st Half Odd/Even"
+    }
+  },
+  "Settings": {
+    "ForecastMaxBet": null,
+    "TricastMaxBet": null,
+    "AmericanConfig": false,
+    "CombinabilityIndex": 1,
+    "CashoutSingles": true,
+    "CashoutCombos": true,
+    "CashoutSystems": false,
+    "CashoutPartial": true,
+    "YourBetRate": "0.00",
+    "YourBetMaxBet": "0.0000",
+    "YourBetMaxWin": "0.0000",
+    "EnableYourBetWB": false,
+    "YourBetIsEnabled": false,
+    "MinComboSelections": null,
+    "BestOddsGuaranteed": null
+  },
+  "SplitTypeId": 4,
+  "SportId": "1",
+  "StartDate": "2019-08-28T10:30:00.000Z",
+  "Tags": [
+    "Cashout"
+  ],
+  "TemplateId": 18227,
+  "Title": "",
+  "TotalBets": 0,
+  "TotalDeposit": 0,
+  "TotalSelectionsCount": 2
+},
+{
+  "_DATE_CLEANUP": "2019-08-28T10:41:07.239Z",
+  "_id": "64619348",
+  "BetslipLine": "[0 : 0] 1st Half Goal Crazy Live Betting",
+  "BetslipLinePattern": {
+    "Pattern": "[SH : SA] {0} {3}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "3,8,10",
+      "PhraseClass{3}": "3,8,10",
+      "SA": "0",
+      "SH": "0",
+      "{0}": "1st Half Goal Crazy",
+      "{3}": "Live Betting"
+    }
+  },
+  "EventId": "15103375",
+  "Groups": [
+    "5705"
+  ],
+  "InMarketGroups": [
+    {
+      "_id": "5705",
+      "SortingKey": 80
+    }
+  ],
+  "IsLive": true,
+  "IsQA": true,
+  "IsRemoved": true,
+  "IsSuspended": false,
+  "LastUpdateDateTime": "2019-08-28T10:31:01.368Z",
+  "LeagueId": "106580",
+  "LiveData": {
+    "ScoreHome": "0",
+    "ScoreAway": "0"
+  },
+  "MarketType": {
+    "_id": "259",
+    "Name": "1st Half Goal Crazy",
+    "NamePattern": null,
+    "LineTypeId": null,
+    "LineTypeName": null,
+    "ShortName": "FHGC",
+    "IsCastMarket": false
+  },
+  "Metadata": {},
+  "Name": "1st Half Goal Crazy",
+  "NamePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "3,8,10",
+      "{0}": "1st Half Goal Crazy"
+    }
+  },
+  "Settings": {
+    "ForecastMaxBet": null,
+    "TricastMaxBet": null,
+    "AmericanConfig": false,
+    "CombinabilityIndex": 1,
+    "CashoutSingles": true,
+    "CashoutCombos": true,
+    "CashoutSystems": false,
+    "CashoutPartial": true,
+    "YourBetRate": "0.00",
+    "YourBetMaxBet": "0.0000",
+    "YourBetMaxWin": "0.0000",
+    "EnableYourBetWB": false,
+    "YourBetIsEnabled": false,
+    "MinComboSelections": null,
+    "BestOddsGuaranteed": null
+  },
+  "SplitTypeId": 5,
+  "SportId": "1",
+  "StartDate": "2019-08-28T10:30:00.000Z",
+  "Tags": [
+    "Cashout"
+  ],
+  "TemplateId": 18227,
+  "Title": "",
+  "TotalBets": 0,
+  "TotalDeposit": 0,
+  "TotalSelectionsCount": 3
+},
+{
+  "_DATE_CLEANUP": "2019-08-28T10:41:07.239Z",
+  "_id": "64619338",
+  "BetslipLine": "[0 : 0] 1st Team To Score Live Betting",
+  "BetslipLinePattern": {
+    "Pattern": "[SH : SA] {0} {3}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "3,8,10",
+      "PhraseClass{3}": "3,8,10",
+      "SA": "0",
+      "SH": "0",
+      "{0}": "1st Team To Score",
+      "{3}": "Live Betting"
+    }
+  },
+  "EventId": "15103375",
+  "Groups": [
+    "5706",
+    "5708"
+  ],
+  "InMarketGroups": [
+    {
+      "_id": "5706",
+      "SortingKey": 20
+    },
+    {
+      "_id": "5708",
+      "SortingKey": 310
+    }
+  ],
+  "IsLive": true,
+  "IsQA": true,
+  "IsRemoved": true,
+  "IsSuspended": false,
+  "LastUpdateDateTime": "2019-08-28T10:31:01.373Z",
+  "LeagueId": "106580",
+  "LiveData": {
+    "ScoreHome": "0",
+    "ScoreAway": "0"
+  },
+  "MarketType": {
+    "_id": "235",
+    "Name": "1st Team To Score",
+    "NamePattern": null,
+    "LineTypeId": null,
+    "LineTypeName": null,
+    "ShortName": "NG1G",
+    "IsCastMarket": false
+  },
+  "Metadata": {},
+  "Name": "1st Team To Score",
+  "NamePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "3,8,10",
+      "{0}": "1st Team To Score"
+    }
+  },
+  "Settings": {
+    "ForecastMaxBet": null,
+    "TricastMaxBet": null,
+    "AmericanConfig": false,
+    "CombinabilityIndex": 1,
+    "CashoutSingles": true,
+    "CashoutCombos": true,
+    "CashoutSystems": false,
+    "CashoutPartial": true,
+    "YourBetRate": "0.00",
+    "YourBetMaxBet": "0.0000",
+    "YourBetMaxWin": "10000.0000",
+    "EnableYourBetWB": false,
+    "YourBetIsEnabled": true,
+    "MinComboSelections": null,
+    "BestOddsGuaranteed": null
+  },
+  "SplitTypeId": 3,
+  "SportId": "1",
+  "StartDate": "2019-08-28T10:30:00.000Z",
+  "Tags": [
+    "YourBetEligible",
+    "Cashout"
+  ],
+  "TemplateId": 18227,
+  "Title": "",
+  "TotalBets": 0,
+  "TotalDeposit": 0,
+  "TotalSelectionsCount": 3
+},
+{
+  "_DATE_CLEANUP": "2019-08-28T10:41:07.239Z",
+  "_id": "64619337",
+  "BetslipLine": "[0 : 0] Both Teams to Score [Excluding OT] Live Betting",
+  "BetslipLinePattern": {
+    "Pattern": "[SH : SA] {0} {3}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "3,8,10",
+      "PhraseClass{3}": "3,8,10",
+      "SA": "0",
+      "SH": "0",
+      "{0}": "Both Teams to Score [Excluding OT]",
+      "{3}": "Live Betting"
+    }
+  },
+  "EventId": "15103375",
+  "Groups": [
+    "5708"
+  ],
+  "InMarketGroups": [
+    {
+      "_id": "5708",
+      "SortingKey": 440
+    }
+  ],
+  "IsLive": true,
+  "IsQA": true,
+  "IsRemoved": true,
+  "IsSuspended": false,
+  "LastUpdateDateTime": "2019-08-28T10:31:01.372Z",
+  "LeagueId": "106580",
+  "LiveData": {
+    "ScoreHome": "0",
+    "ScoreAway": "0"
+  },
+  "MarketType": {
+    "_id": "158",
+    "Name": "Both Teams to Score [Excluding OT]",
+    "NamePattern": null,
+    "LineTypeId": null,
+    "LineTypeName": null,
+    "ShortName": "BoToSco",
+    "IsCastMarket": false
+  },
+  "Metadata": {},
+  "Name": "Both Teams to Score [Excluding OT]",
+  "NamePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "3,8,10",
+      "{0}": "Both Teams to Score [Excluding OT]"
+    }
+  },
+  "Settings": {
+    "ForecastMaxBet": null,
+    "TricastMaxBet": null,
+    "AmericanConfig": false,
+    "CombinabilityIndex": 1,
+    "CashoutSingles": true,
+    "CashoutCombos": true,
+    "CashoutSystems": false,
+    "CashoutPartial": true,
+    "YourBetRate": "0.00",
+    "YourBetMaxBet": "0.0000",
+    "YourBetMaxWin": "0.0000",
+    "EnableYourBetWB": false,
+    "YourBetIsEnabled": false,
+    "MinComboSelections": null,
+    "BestOddsGuaranteed": null
+  },
+  "SplitTypeId": 0,
+  "SportId": "1",
+  "StartDate": "2019-08-28T10:30:00.000Z",
+  "Tags": [
+    "Cashout"
+  ],
+  "TemplateId": 18227,
+  "Title": "",
+  "TotalBets": 0,
+  "TotalDeposit": 0,
+  "TotalSelectionsCount": 2
+},
+{
+  "_DATE_CLEANUP": "2019-08-28T10:41:07.239Z",
+  "_id": "64619336",
+  "BetslipLine": "[0 : 0] Goal Crazy Live Betting",
+  "BetslipLinePattern": {
+    "Pattern": "[SH : SA] {0} {3}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "3,8,10",
+      "PhraseClass{3}": "3,8,10",
+      "SA": "0",
+      "SH": "0",
+      "{0}": "Goal Crazy",
+      "{3}": "Live Betting"
+    }
+  },
+  "EventId": "15103375",
+  "Groups": [
+    "5706"
+  ],
+  "InMarketGroups": [
+    {
+      "_id": "5706",
+      "SortingKey": 170
+    }
+  ],
+  "IsLive": true,
+  "IsQA": true,
+  "IsRemoved": true,
+  "IsSuspended": false,
+  "LastUpdateDateTime": "2019-08-28T10:31:01.374Z",
+  "LeagueId": "106580",
+  "LiveData": {
+    "ScoreHome": "0",
+    "ScoreAway": "0"
+  },
+  "MarketType": {
+    "_id": "156",
+    "Name": "Goal Crazy",
+    "NamePattern": null,
+    "LineTypeId": null,
+    "LineTypeName": null,
+    "ShortName": "GoCra",
+    "IsCastMarket": false
+  },
+  "Metadata": {},
+  "Name": "Goal Crazy",
+  "NamePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "3,8,10",
+      "{0}": "Goal Crazy"
+    }
+  },
+  "Settings": {
+    "ForecastMaxBet": null,
+    "TricastMaxBet": null,
+    "AmericanConfig": false,
+    "CombinabilityIndex": 1,
+    "CashoutSingles": true,
+    "CashoutCombos": true,
+    "CashoutSystems": false,
+    "CashoutPartial": true,
+    "YourBetRate": "0.00",
+    "YourBetMaxBet": "0.0000",
+    "YourBetMaxWin": "0.0000",
+    "EnableYourBetWB": false,
+    "YourBetIsEnabled": false,
+    "MinComboSelections": null,
+    "BestOddsGuaranteed": null
+  },
+  "SplitTypeId": 0,
+  "SportId": "1",
+  "StartDate": "2019-08-28T10:30:00.000Z",
+  "Tags": [
+    "Cashout"
+  ],
+  "TemplateId": 18227,
+  "Title": "",
+  "TotalBets": 0,
+  "TotalDeposit": 0,
+  "TotalSelectionsCount": 3
+},
+{
+  "_DATE_CLEANUP": "2019-08-28T10:41:07.239Z",
+  "_id": "64619335",
+  "BetslipLine": "[0 : 0] Exact Score 1st Half Live Betting",
+  "BetslipLinePattern": {
+    "Pattern": "[SH : SA] {0} {3}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "3,8,10",
+      "PhraseClass{3}": "3,8,10",
+      "SA": "0",
+      "SH": "0",
+      "{0}": "Exact Score 1st Half",
+      "{3}": "Live Betting"
+    }
+  },
+  "EventId": "15103375",
+  "Groups": [
+    "5705"
+  ],
+  "InMarketGroups": [
+    {
+      "_id": "5705",
+      "SortingKey": 30
+    }
+  ],
+  "IsLive": true,
+  "IsQA": true,
+  "IsRemoved": true,
+  "IsSuspended": false,
+  "LastUpdateDateTime": "2019-08-28T10:31:01.373Z",
+  "LeagueId": "106580",
+  "LiveData": {
+    "ScoreHome": "0",
+    "ScoreAway": "0"
+  },
+  "MarketType": {
+    "_id": "144",
+    "Name": "Exact Score 1st Half",
+    "NamePattern": null,
+    "LineTypeId": null,
+    "LineTypeName": null,
+    "ShortName": "ES1stH",
+    "IsCastMarket": false
+  },
+  "Metadata": {},
+  "Name": "Exact Score 1st Half",
+  "NamePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "3,8,10",
+      "{0}": "Exact Score 1st Half"
+    }
+  },
+  "Settings": {
+    "ForecastMaxBet": null,
+    "TricastMaxBet": null,
+    "AmericanConfig": false,
+    "CombinabilityIndex": 1,
+    "CashoutSingles": true,
+    "CashoutCombos": true,
+    "CashoutSystems": false,
+    "CashoutPartial": true,
+    "YourBetRate": "0.00",
+    "YourBetMaxBet": "0.0000",
+    "YourBetMaxWin": "0.0000",
+    "EnableYourBetWB": false,
+    "YourBetIsEnabled": false,
+    "MinComboSelections": null,
+    "BestOddsGuaranteed": null
+  },
+  "SplitTypeId": 0,
+  "SportId": "1",
+  "StartDate": "2019-08-28T10:30:00.000Z",
+  "Tags": [
+    "Cashout"
+  ],
+  "TemplateId": 18227,
+  "Title": "",
+  "TotalBets": 0,
+  "TotalDeposit": 0,
+  "TotalSelectionsCount": 14
+},
+{
+  "_DATE_CLEANUP": "2019-08-28T10:41:07.239Z",
+  "_id": "64619334",
+  "BetslipLine": "[0 : 0] Half Time/Full Time Live Betting",
+  "BetslipLinePattern": {
+    "Pattern": "[SH : SA] {0} {3}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "3,8,10",
+      "PhraseClass{3}": "3,8,10",
+      "SA": "0",
+      "SH": "0",
+      "{0}": "Half Time/Full Time",
+      "{3}": "Live Betting"
+    }
+  },
+  "EventId": "15103375",
+  "Groups": [
+    "5708"
+  ],
+  "InMarketGroups": [
+    {
+      "_id": "5708",
+      "SortingKey": 560
+    }
+  ],
+  "IsLive": true,
+  "IsQA": true,
+  "IsRemoved": true,
+  "IsSuspended": false,
+  "LastUpdateDateTime": "2019-08-28T10:31:01.371Z",
+  "LeagueId": "106580",
+  "LiveData": {
+    "ScoreHome": "0",
+    "ScoreAway": "0"
+  },
+  "MarketType": {
+    "_id": "62",
+    "Name": "Half Time/Full Time",
+    "NamePattern": null,
+    "LineTypeId": null,
+    "LineTypeName": null,
+    "ShortName": "HT/FT",
+    "IsCastMarket": false
+  },
+  "Metadata": {},
+  "Name": "Half Time/Full Time",
+  "NamePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "3,8,10",
+      "{0}": "Half Time/Full Time"
+    }
+  },
+  "Settings": {
+    "ForecastMaxBet": null,
+    "TricastMaxBet": null,
+    "AmericanConfig": false,
+    "CombinabilityIndex": 1,
+    "CashoutSingles": true,
+    "CashoutCombos": true,
+    "CashoutSystems": false,
+    "CashoutPartial": true,
+    "YourBetRate": "0.00",
+    "YourBetMaxBet": "0.0000",
+    "YourBetMaxWin": "0.0000",
+    "EnableYourBetWB": false,
+    "YourBetIsEnabled": false,
+    "MinComboSelections": null,
+    "BestOddsGuaranteed": null
+  },
+  "SplitTypeId": 0,
+  "SportId": "1",
+  "StartDate": "2019-08-28T10:30:00.000Z",
+  "Tags": [
+    "Cashout"
+  ],
+  "TemplateId": 18227,
+  "Title": "",
+  "TotalBets": 0,
+  "TotalDeposit": 0,
+  "TotalSelectionsCount": 9
+},
+{
+  "_DATE_CLEANUP": "2019-08-28T10:41:07.239Z",
+  "_id": "64619333",
+  "BetslipLine": "[0 : 0] Double Chance Live Betting",
+  "BetslipLinePattern": {
+    "Pattern": "[SH : SA] {0} {3}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "3,8,10",
+      "PhraseClass{3}": "3,8,10",
+      "SA": "0",
+      "SH": "0",
+      "{0}": "Double Chance",
+      "{3}": "Live Betting"
+    }
+  },
+  "EventId": "15103375",
+  "Groups": [
+    "5708"
+  ],
+  "InMarketGroups": [
+    {
+      "_id": "5708",
+      "SortingKey": 430
+    }
+  ],
+  "IsLive": true,
+  "IsQA": true,
+  "IsRemoved": true,
+  "IsSuspended": false,
+  "LastUpdateDateTime": "2019-08-28T10:31:01.371Z",
+  "LeagueId": "106580",
+  "LiveData": {
+    "ScoreHome": "0",
+    "ScoreAway": "0"
+  },
+  "MarketType": {
+    "_id": "61",
+    "Name": "Double Chance",
+    "NamePattern": null,
+    "LineTypeId": null,
+    "LineTypeName": null,
+    "ShortName": "DC",
+    "IsCastMarket": false
+  },
+  "Metadata": {},
+  "Name": "Double Chance",
+  "NamePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "3,8,10",
+      "{0}": "Double Chance"
+    }
+  },
+  "Settings": {
+    "ForecastMaxBet": null,
+    "TricastMaxBet": null,
+    "AmericanConfig": false,
+    "CombinabilityIndex": 1,
+    "CashoutSingles": true,
+    "CashoutCombos": true,
+    "CashoutSystems": false,
+    "CashoutPartial": true,
+    "YourBetRate": "0.00",
+    "YourBetMaxBet": "0.0000",
+    "YourBetMaxWin": "0.0000",
+    "EnableYourBetWB": false,
+    "YourBetIsEnabled": false,
+    "MinComboSelections": null,
+    "BestOddsGuaranteed": null
+  },
+  "SplitTypeId": 0,
+  "SportId": "1",
+  "StartDate": "2019-08-28T10:30:00.000Z",
+  "Tags": [
+    "Cashout"
+  ],
+  "TemplateId": 18227,
+  "Title": "",
+  "TotalBets": 0,
+  "TotalDeposit": 0,
+  "TotalSelectionsCount": 3
+},
+{
+  "_DATE_CLEANUP": "2019-08-28T10:41:07.239Z",
+  "_id": "64619332",
+  "BetslipLine": "[0 : 0] Exact Score Live Betting",
+  "BetslipLinePattern": {
+    "Pattern": "[SH : SA] {0} {3}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "3,8,10",
+      "PhraseClass{3}": "3,8,10",
+      "SA": "0",
+      "SH": "0",
+      "{0}": "Exact Score",
+      "{3}": "Live Betting"
+    }
+  },
+  "EventId": "15103375",
+  "Groups": [
+    "5708"
+  ],
+  "InMarketGroups": [
+    {
+      "_id": "5708",
+      "SortingKey": 500
+    }
+  ],
+  "IsLive": true,
+  "IsQA": true,
+  "IsRemoved": true,
+  "IsSuspended": false,
+  "LastUpdateDateTime": "2019-08-28T10:31:01.368Z",
+  "LeagueId": "106580",
+  "LiveData": {
+    "ScoreHome": "0",
+    "ScoreAway": "0"
+  },
+  "MarketType": {
+    "_id": "60",
+    "Name": "Exact Score",
+    "NamePattern": null,
+    "LineTypeId": null,
+    "LineTypeName": null,
+    "ShortName": "ES3Co",
+    "IsCastMarket": false
+  },
+  "Metadata": {},
+  "Name": "Exact Score",
+  "NamePattern": {
+    "Pattern": "{0}",
+    "Type": 0,
+    "Parameters": {
+      "PhraseClass{0}": "3,8,10",
+      "{0}": "Exact Score"
+    }
+  },
+  "Settings": {
+    "ForecastMaxBet": null,
+    "TricastMaxBet": null,
+    "AmericanConfig": false,
+    "CombinabilityIndex": 1,
+    "CashoutSingles": true,
+    "CashoutCombos": true,
+    "CashoutSystems": false,
+    "CashoutPartial": true,
+    "YourBetRate": "0.00",
+    "YourBetMaxBet": "0.0000",
+    "YourBetMaxWin": "0.0000",
+    "EnableYourBetWB": false,
+    "YourBetIsEnabled": false,
+    "MinComboSelections": null,
+    "BestOddsGuaranteed": null
+  },
+  "SplitTypeId": 0,
+  "SportId": "1",
+  "StartDate": "2019-08-28T10:30:00.000Z",
+  "Tags": [
+    "Cashout"
+  ],
+  "TemplateId": 18227,
+  "Title": "",
+  "TotalBets": 0,
+  "TotalDeposit": 0,
+  "TotalSelectionsCount": 28
+},

@@ -1,0 +1,17 @@
+{
+  "directory": "./src",
+  "delete": true,
+  "singleQuotes": true,
+  "noSemicolon": false,
+  "location": "all",
+  "name": "index",
+  "structure": "flat",
+  "verbose": true,
+  "include": [".ts$"],
+  "exclude": [
+    "node_modules",
+    "configs",
+    "build",
+    "test"
+  ]
+}

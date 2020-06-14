@@ -1,0 +1,94 @@
+{
+  "mongo": {
+    "en": {
+      "mongoURL": "mongodb://localhost:27017",
+      "database": "SportsDataEN"
+    },
+    "ru": {
+      "mongoURL": "mongodb://dev-010.btigroup.io:27017",
+      "database": "SportsDataRU",
+      "options": {
+        "slaveOk": true,
+        "connectTimeoutMS": 60000,
+        "socketTimeoutMS": 60000,
+        "serverSelectionTimeoutMS": 60000,
+        "readPreference": "secondary"
+      }
+    }
+  },
+  "settlementDatabase": {
+    "mongoURL": "mongodb://10.33.3.223:27017",
+    "database": "ProdSettlement"
+  },
+  "operator": {
+    "host": "https://ex-toaster.btisports.io",
+    "api": {
+      "validateToken": "/api/Auth/ValidateToken"
+    }
+  },
+  "log": {
+    "console": {
+      "enabled": true,
+      "level": "silly",
+      "excludeSystemMeta": true,
+      "colorize": true,
+      "metadataDepth": 2
+    },
+    "elk": {
+      "enabled": true,
+      "serverAddress": "https://log.btisports.io/logs/serilog",
+      "env": "local",
+      "appType": "betslip_be",
+      "debug": false,
+      "level": "silly"
+    }
+  },
+  "webServer": {
+    "httpPort": 4013,
+    "httpsPort": false,
+    "basePath": "/api",
+    "apiDocumentationPath": "api/api-docs"
+  },
+  "jwtSecret": "u5VWkkfpEqSxUh64gmYzSS2vLpR2y2FRGcqCpfRDvzZZtGTmSvwmcntzm9cJLHb5",
+  "anonymousUser": "anonymousUser",
+  "aerospike": {
+    "host": "localhost:4000",
+    "nameSpace": "SportsBook"
+  },
+  "bettingAPI": {
+    "host": "operator1-staging.btigroup.io",
+    "port": "80",
+    "placeBetRoute": "api/bettingapi/Betting",
+    "setWaitingBetStatusRoute": "api/bettingapi/Betting/setWaitingBetStatus",
+    "removeWaitingBetRoute": "api/bettingapi/Betting/removeWaitingBet",
+    "getWaitingBetsRoute": "api/bettingapi/Player/customerWaitingBets"
+  },
+  "dataModificationServer": {
+    "host": "localhost",
+    "port": "3010"
+  },
+  "validateCountry": false,
+  "countryServer": {
+    "host": "localhost",
+    "port": 3030,
+    "url": "/api/CountryService/"
+  },
+  "waitingBetsOptions": {
+    "host": "10.80.9.188:5672,localhost:5672",
+    "virtualHost": "",
+    "exchangeName": "bff",
+    "username": "guest",
+    "password": "guest"
+  },
+  "statisticsConfig": { "host": "10.33.3.222", "port": 8125, "prefix": "betslip_be" },
+  "currencyServer": {
+    "host": "10.80.9.188",
+    "port": 8085,
+    "url": "/api/Currency"
+  },
+  "healthConfig": {
+    "storedOpSize": 500,
+    "failsLimit": 50,
+    "applicationName": "betslip_be"
+  }
+}

@@ -1,0 +1,14 @@
+version: "3"
+services:
+  settlement_db:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    restart: always
+    ports:
+      - "27037:27017"
+    container_name: settlement_db
+    networks:
+      - coretech
+networks:
+  coretech:

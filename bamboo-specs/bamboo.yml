@@ -1,0 +1,27 @@
+---
+version: 2
+plan:
+  project-key: DA
+  key: BETSLIPBE
+  name: Build and publish docker container for betslip BE service
+
+stages:
+  - Build:
+      jobs:
+        - Continuous Integration Job
+
+Continuous Integration Job:
+  tasks:
+    - clean
+    - inject-variables:
+        file: ./bamboo-specs/scripts/variables.txt
+        scope: LOCAL
+        namespace: vars
+    - script: sh ./bamboo-specs/scripts/build.sh
+    - script: sh ./bamboo-specs/scripts/publish.sh
+  final-tasks:
+    - inject-variables:
+        file: ./bamboo-specs/scripts/variables.txt
+        scope: LOCAL
+        namespace: vars
+    - script: sh ./bamboo-specs/scripts/cleanup.sh
