@@ -34,6 +34,11 @@ export class RegisterPayload extends UserResponseModel {
   public password: string;
 }
 
+export class UserDBModel extends RegisterPayload {
+  @ApiProperty()
+  public createdAt: string;
+}
+
 export class LoginPayload {
   @ApiProperty()
   public email: string;

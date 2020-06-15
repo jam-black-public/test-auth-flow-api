@@ -1,7 +1,7 @@
 import * as jwt from 'jsonwebtoken';
 import { HttpStatus, Injectable } from '@nestjs/common';
 import { assertEx, hashPassword } from '../../utils';
-import { LoginResponse, RegisterPayload } from './auth.model';
+import { LoginResponse, RegisterPayload, UserDBModel } from './auth.model';
 import { _1_HOUR_AFTER } from './auth.constant';
 import { compare } from 'bcrypt';
 import { JWT_SECRET, ERRORS } from '../../constants';
@@ -17,7 +17,7 @@ export class AuthService {
   public async register(userData: RegisterPayload): Promise<LoginResponse> {
     const { email } = userData;
 
-    const alreadyRegistered = !!this.users.find((user: any) => user.email === email);
+    const alreadyRegistered = !!this.users.find((user: UserDBModel) => user.email === email);
     assertEx(!alreadyRegistered, ERRORS.USER_ALREADY_EXISTS);
 
     const { password } = userData;
